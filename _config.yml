@@ -27,7 +27,7 @@ navigation: # Navigation links
 tagline: >
   Philippine Lifestyle, Food and Travel by Kevin Olega.
 
-hero_img: assets/img/posts/IMG_2955.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: assets/img/ # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: philippineislandliving@gmail.com # email for form submission
 
