@@ -2,7 +2,7 @@
 layout: post 
 title: Serye is Open After 9pm and has Keto Friendly Meals
 date: 2019-05-31 12:37
-featured-img: http://philippineislandliving.com/images/Serye-2019.jpg
+featured-img: images/Serye-2019.jpg
 Tags: [ Eat Out, blog ]
 permalink: /serye-keto/ 
 author: Kevin Olega 
