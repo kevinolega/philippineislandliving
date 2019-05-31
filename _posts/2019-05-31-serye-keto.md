@@ -2,12 +2,12 @@
 layout: post 
 title: Serye is Open After 9pm and has Keto Friendly Meals
 date: 2019-05-31 12:37
-featured-img: http://philippineislandliving.com/assets/img/posts/Serye-2019.jpg
+featured-img: http://philippineislandliving.com/images/Serye-2019.jpg
 Tags: [ Eat Out, blog ]
 permalink: /serye-keto/ 
 author: Kevin Olega 
 --- 
-![Me and Mitzi at Serye May 2019](http://philippineislandliving.com/assets/img/posts/Serye-2019.jpg)
+![Me and Mitzi at Serye May 2019](http://philippineislandliving.com/images/Serye-2019.jpg)
 
 SM BF closes at 9pm so we walked to Santana Grove to find a place to eat.
 
