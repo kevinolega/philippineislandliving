@@ -27,5 +27,3 @@ Their Kare Kare that's good for sharing is good for one person with a big apetit
 It's ox-tail with some tripe.
 
 Just eat slowly and enjoy your meal, then it will hit you.
-
-![Me and Mitzi at Serye May 2019](https://raw.githubusercontent.com/kevinolega/philippineislandliving/master/images/Serye.jpg "Serye Santana Grove")
