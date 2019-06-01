@@ -2,6 +2,7 @@
 layout: post 
 title: Keto Grocery list Manila
 date: 2019-05-26 22:03
+img: Keto2018.jpg
 Tags: [ keto, blog ]
 permalink: /keto-grocery/ 
 author: Kevin Olega 
