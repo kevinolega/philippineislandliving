@@ -1,76 +1,57 @@
-# SITE CONFIGURATION
-title: PHILIPPINE ISLAND LIVING # your site title
-author: Kevin Olega # You :P
-description: > # Meta description of Homepage
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Philippine Island Living
+email: philippineislandliving@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
   Philippine Lifestyle, Food and Travel by Kevin Olega.
+  
+  
+  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://philippineislandliving.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://philippineislandliving.com" # the base hostname & protocol for your site
 
-# SEO PLUGIN
-social:
-  name: Kevin Olega
-  links:
-    - http://kevinolega.com/now
-    - https://twitter.com/kevinolega
-    - https://www.facebook.com/ben.balter
-    - https://www.instagram.com/kevinolega
-    - http://minimalchanges.com
-    - https://github.com/kevinolega
-    - https://keybase.io/benbalter
+#sidebar
+default-image: PIL-sidebar.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
 
-# THEME SETTINGS
-navigation: # Navigation links
-  - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+#footer
+built-by: Kevin Olega
+copyright: 2017
+name: Kevin Olega
+link: 'http://philippineislandliving.com'
 
-tagline: >
-  Philippine Lifestyle, Food and Travel by Kevin Olega.
-
-hero_img: /assets/img/posts/featured-img.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
-
-email: philippineislandliving@gmail.com # email for form submission
-
-twitter_username: kevinolega # replace with your_twitter_username or comment to remove link from footer
-github_username:  kevinolega # replace with your_github_username or comment to remove link from footer
-instagram_username: kevinolega # replace with your_instagram_username or comment to remove link from footer
-
-disqus:
-  shortname: philippineislandliving # to enable comments replace with your_disqus_shortname
-
-# google_tag_manager: GTM-XXXXXXX # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
+# Build settings
+markdown: kramdown
+permalink: /:title/
+paginate: 12
+paginate_path: /page:num/
 
 # Tracker
 analytics: UA-83979019-1
 
-service_worker: true
+# Comments
+disqus-shortname: philippineislandliving
 
-# BUILD SETTINGS
-markdown: kramdown
-highlighter: rouge # or pygments or null
-# theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
-exclude:
-  - README.md
-  - node_modules
-  - script
-  - package.json
-  - package-lock.json
-  - Gemfile
-  - Gemfile.lock
-  - vendor
-  - npm-debug.log
-  - gulpfile.js
-  - sleek.jpg
+#social
+facebook: http://facebook.com/philippineislandliving
+quora: http://quora.com/sharathdt
+twitter: http://twitter.com/kevinolega
+github: http://github.com/kevinolega
 
-include: ['_pages']
-permalink: /:title/
+#facebook like box
+fb-app-id:
+fb-page-url: https://www.facebook.com/philippineislandliving/
+fb-page-title: philippineislandliving
 
-paginate: 12
-paginate_path: /page:num/
+# Sass style
+sass:
+  style: compressed
 
-compress_html:
-  clippings: all
+# Ruby Gems
+gems: [jekyll-paginate, jekyll-seo-tag]
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
