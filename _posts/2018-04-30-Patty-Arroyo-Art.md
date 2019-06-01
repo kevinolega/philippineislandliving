@@ -6,7 +6,6 @@ permalink: /patty/
 img: patty super.jpg
 author: Kevin Olega 
 --- 
-
 I'm a big fan of supporting local artists.
 
 My comicbook artist friend Michael Urbano recommended I check out the art of Patty Arroyo and I loved her work after browsing through a few photos.
