@@ -3,6 +3,7 @@ layout: post
 title: Shocking Truths About the Carnivore Diet and the Environment
 date: 2019-05-26 20:17
 description: Are the benefits of the Carnivore diet enough to offset the damage it does to the environment? How do you incorporate sustainability and environmental impact?
+img: Carnivore2018.jpg
 Tags: [ carnivore, blog ]
 permalink: /carnivore-environment/ 
 author: Kevin Olega 
