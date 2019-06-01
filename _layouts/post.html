@@ -1,58 +1,19 @@
----
-layout: default
----
-<div class="row">
-<div class="col-md-8">
-    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
-          <header class="post-header">
-            <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-            <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-                 
-          </header>
-
-          <div class="post-content" itemprop="articleBody">
-            {{ content }}
-            <p>Thank you for reading.</p>
-            <p>Post written by <a href="http://kevinolega.com">Kevin Olega</a>” connect on <a href="http://twitter.com/kevinolega">twitter</a> and <a href="https://www.facebook.com/philippineislandliving">facebook</a></p>
-            <p><a href="http://eepurl.com/oCUar">Sign up to my private email list.</a>
-            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- End of blogpost -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-6959391664103199"
-     data-ad-slot="5668688032"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-          </div>
-
-    </article>
-    <div class="row">
-        {% if site.disqus-shortname %}
-         {% include disqus.html %}
-        {% endif %}
+{% include head.html %} 
+{% include navbar.html %} 
+{% include jumbotron.html %} 
+{% include search_modal.html %}
+  <section id="{{ page.type }}" class="container pt-3">
+  <div class="row">
+    <div class="col">
+    {%- if page.type == "post" -%}
+      <p class="lead text-black-50 text-right">
+        {{ page.date | date: "%b %-d, %Y" }}
+      </p>
+    {%- endif -%}
+      <article>
+        {{ content }}
+      </article>
     </div>
-    
-    
-    <div class="row">
-            <ul class="pager">
-             {% if page.next.url %}
-                    <li><a class="next" href="{{page.next.url | prepend: site.baseurl}}">&laquo; {{page.next.title}}</a></li>
-              {% endif %}
-              {% if page.previous.url %}
-                <li><a class="previous" href="{{page.previous.url | prepend: site.baseurl}}">{{page.previous.title}} &raquo;</a></li>
-              {% endif %}
-            </ul>
-    </div>
-</div>
-
-
-{% include sidebar.html %}
-
-</div>
-
-
-{% include fb-script.html %}
+  </div>
+</section>
+{% include footer.html %}
