@@ -20,7 +20,6 @@ Affordable, good meals.
 
 Somewhat keto friendly selection.
 
-
 **What you may not like:**
 
 That's the thing with affordable places to eat if you follow a Ketogenic diet or an All Meat Diet.
@@ -82,4 +81,3 @@ It reminds me of either the Assyrians or the Babylonians.
 You'll have to see the design yourself.
 
 You'll find Brunch at President's Avenue just outside Tahanan Village, next to Autohann.
-
