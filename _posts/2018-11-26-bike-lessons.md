@@ -2,6 +2,7 @@
 layout: post 
 title: Ten Things I Learned From Biking
 date: 2018-11-26 04:37
+img: BikeSubic2015.jpg
 permalink: /bike-lessons/ 
 author: Kevin Olega 
 --- 

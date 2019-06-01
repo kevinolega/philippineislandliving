@@ -2,6 +2,7 @@
 layout: post 
 title: What to Bring to CrossFit for Beginners
 date: 2019-03-16 13:37
+img: CFShirt2018.jpg
 permalink: /crossfit-carry/ 
 author: Kevin Olega 
 --- 
