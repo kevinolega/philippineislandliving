@@ -1,11 +1,11 @@
---- 
+---
 layout: post 
 title: Keto Shortcuts
 date: 2018-11-26 04:35
 img: CarnivoreG2018.jpg
 permalink: /keto-shortcuts/ 
 author: Kevin Olega 
---- 
+---
 I created a list called Keto shortcuts.
 
 It's a list of meals that I eat whenever I'm on a Ketogenic diet.
