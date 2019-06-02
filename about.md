@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: about
 ---
-! [Kevin holding ice cream](https://github.com/kevinolega/philippineislandliving/blob/master/images/Kevin2019.jpg?raw=true)
+![Kevin holding ice cream]({{ site.url }}/images/Kevin2019.jpg).
 
 This website is a home for tips and opportunities about a wide range of different topics about Philippine Island Living.
 
