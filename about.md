@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: about
 ---
+! [Kevin holding ice cream](images/Kevin2019.jpg)
 This website is a home for tips and opportunities about a wide range of different topics about Philippine Island Living.
 
 Lifehacks and Experiments about
