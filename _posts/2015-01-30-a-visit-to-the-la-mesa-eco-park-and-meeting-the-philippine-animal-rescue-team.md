@@ -3,7 +3,7 @@ layout: post
 title: A Visit to the La Mesa Eco Park and Meeting the Philippine Animal Rescue Team
 date: 2015-01-30 19:20
 author: phislife
-img: Lamesa.jpg
+img: LaMesa.jpg
 comments: true
 categories: [Uncategorized]
 ---
