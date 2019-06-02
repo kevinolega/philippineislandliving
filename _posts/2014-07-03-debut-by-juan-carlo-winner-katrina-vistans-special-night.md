@@ -3,6 +3,7 @@ layout: post
 title: Debut By Juan Carlo Winner Katrina Vistan's Special Night
 date: 2014-07-03 12:24
 author: phislife
+img: MON_4326-compressor.jpg
 comments: true
 categories: [Food]
 ---
