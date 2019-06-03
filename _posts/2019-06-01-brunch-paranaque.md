@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Brunch Serves Comfort Food outside Tahanan Village
+title: Brunch Serves Comfort Food Outside Tahanan Village
 date: 2019-06-01 17:04
 permalink: /brunch-tahanan/ 
 img: Brunch2019.jpg
@@ -26,13 +26,13 @@ That's the thing with affordable places to eat if you follow a Ketogenic diet or
 
 The portion size is usually lacking.
 
-You'll probably want to order
+You'll probably want to order double.
 
 **What we ordered:**
 
 I ordered the roast beef. 
 
-Gravy is laced with truffle so it's incredibly taty.  
+Gravy is laced with truffle so it's incredibly tasty.  
 
 The order comes with either rice or pasta but a little "bitin".
 
@@ -40,9 +40,9 @@ The order comes with either rice or pasta but a little "bitin".
 
 Except I'm on a low carb diet.
 
-I was hoping to pay something around 400-500 something and get a full meal with one order.
+I was hoping to pay something around 400-500 something and get a full meal that's good for sharing on one order.
 
-Some places like Little Quiapo and Eat Fresh has a beef viand that fits the price range.
+Some places like Little Quiapo and Eat Fresh has a beef viand that's good for sharing and fits the price range.
 
 The only option will probably to order two three hundred something viands and just enjoy that.
 
