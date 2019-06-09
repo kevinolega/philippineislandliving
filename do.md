@@ -6,15 +6,20 @@ permalink: do
 
 ## Leisure Activity
 
-Movie Night
-Anime Marathon
-Training Night
-Game night
+Got well earned free time?
 
-Drawing
-CrossFit
-Cycling
-Writing
+- Movie Night
+- Anime Marathon
+- Training Night
+- Game night
+
+What do to make your life better?
+
+- Drawing
+- CrossFit
+- Cycling
+- Writing
+- Reading
 
 
 ### January
