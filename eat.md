@@ -72,8 +72,9 @@ Shitty places I eat at anyway (100/head range or less)
 
 
 ## Higher End (1,500-Up)
-WildFlour
-Mandarin and Sky
-Tong Yang
-Saisaki
-Butcher's Daughter
+
+- WildFlour
+- Mandarin and Sky
+- Tong Yang
+- Saisaki
+- Butcher's Daughter
