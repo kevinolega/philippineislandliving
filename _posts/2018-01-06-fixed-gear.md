@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: 
+title: My Experieince Building and Riding My Fixed Gear Bike
 date: 2018-01-06 23:43
 permalink: /fixed-gear/ 
 img: January 06, 2018 at 08_45AM.jpg
@@ -20,11 +20,17 @@ But he is easily able to slow down to check on people who are left behind and ha
 
 I am afraid of fixed gear bikes.
 
+I'm worried about crashing.
+
+I'm also worried about it being exhausiting.
+
+Or hurting my knees.
+
 But the more I doubted myself.
 
 The more I wanted to try it.
 
-I didn't buy one because I'm already paying for my bike on installment.
+I didn't buy one immediately because I'm already paying for my bike on installment.
 
 So as soon as I had an opportunity, I bought a frame set and decided to assemble one.
 
@@ -38,11 +44,13 @@ The third purchase were the handlebars, brakes, seat post and saddle, as well as
 
 The fourth purchase, was the crank. Which I picked up in Laguna.
 
-The sixth purchase was the chain, which I bought at a nearby bike store.
+The fifth purchase was the chain, which I bought at a nearby bike store.
 
-The fifth purchase was with the third seller. He sold me his helmet and threw in the brakes for free. Then he accompanied me to the store he got his parts from. I bought the tires, tire tube, clip-less pedals and bike shoes that match.
+The sixth purchase was with the third seller. He sold me his helmet and threw in the brakes for free. Then he accompanied me to the store he got his parts from. I bought the tires, tire tube, clip-less pedals and bike shoes that match.
 
-I assembled the bike for the 2017 Sun Life Financial Cycling Event.
+The seventh and final purchase was in Makati, I got the rear brake lever, had a wheel lock added.
+
+I assembled the bike for the 2017 Sun Life Financial Cycling Event where a team of four consided of my uncle, his friend, me and my friend.
 
 ![Kevin on the finish line]({{ site.url }}/images/February 04, 2018 at 12_06AM.jpg).
 
