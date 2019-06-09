@@ -11,7 +11,7 @@ Cheatsheet Random Calendar Generator
 
 - Pasta Night
 - Korean Barbecue
-- Steaks
+- Steak Night
 - Keto Lasagna
 
 # Restaurants by Price
@@ -29,7 +29,7 @@ Shitty places I eat at anyway (100/head range or less)
 - Jeanny's (BF Parañaque)
 - Cream Plate (BF Parañaque)
 
-##Sub 150
+## Sub 150
 
 - Subway
 - Meat Depot (BF Parañaque)
@@ -56,7 +56,7 @@ Shitty places I eat at anyway (100/head range or less)
 - Mcdonald's
 - Kenny Roger's
 
-## Mid End (1,000-1,500)
+## Mid End 1,000-1,500
 
 - Hole in the wall
 - Izakaya Kikufuji
@@ -71,7 +71,7 @@ Shitty places I eat at anyway (100/head range or less)
 - Little Quiapo
 
 
-## Higher End (1,500-Up)
+## Higher End 1,500-Up
 
 - WildFlour
 - Mandarin and Sky
