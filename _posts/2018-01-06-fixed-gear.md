@@ -16,15 +16,21 @@ He usually gets to lead at the front of the pack.
 
 But he is easily able to slow down to check on people who are left behind and has assisted me many times.
 
-![I'm the guy in the orange helmet and the fixed gear is the orange bike]]({{ site.url }}/images/Bike to Subic 2016.jpg)
+![Bike to Subic]({{ site.url }}/images/Bike to Subic 2016.jpg).
+
+I'm the guy in the orange helmet and the fixed gear is the orange bike
 
 I am afraid of fixed gear bikes.
 
+Many people I've spoken to have a negative view on fixed gear bikes.
+
+The comments usually go that fixed gear bikes are dangerous, difficult to use, and often viewed as reckless cycling.
+
 I'm worried about crashing.
 
-I'm also worried about it being exhausiting.
+I'm also worried about riding "fixed" being exhausiting.
 
-Or hurting my knees.
+Or eventually hurting my knees.
 
 But the more I doubted myself.
 
@@ -92,13 +98,15 @@ I appreciate my mountain and folding bike for what they can do.
 
 What I love about this one is it's very light and it's incredibly easy to move around with it.
 
-The only downside of this bike is I'm always worried that it might get stolen.
+The main downside of this bike is I'm always worried that it might get stolen.
 
 The other downside is how I feel the weight of what I'm carrying when I'm carrying a lot.
 
 This bike is perfect if you only packed your wallet, phone, keys and maybe an extra shirt.
 
 If you have a backpack or a messenger with a laptop, a bunch of notebooks, packed lunch, gym clothes, shoes and a jacket with you this won't be the best bike to use.
+
+If you're packing heavy, you want to avoid any rough roads because you will feel painful vibrations in your arms when you pass through any imperfections on the road.
 
 ### Fixed Gear Bike Specifications:
 
