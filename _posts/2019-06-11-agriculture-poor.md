@@ -2,7 +2,7 @@
 layout: post 
 title: Filipino Food is a Simple Method of Slave Mind Control
 date: 2019-06-11 09:48
-img: Carabao 2010.JPG
+img: Carabao from 2010.JPG
 Tags: [ carnivore, blog ]
 permalink: /filipino-food/ 
 author: Kevin Olega 
