@@ -2,7 +2,7 @@
 layout: post 
 title: Keto Shortcuts
 date: 2018-11-26 04:35
-img: CarnivoreG2018.jpg
+img: Keto Grocery 2018.jpg
 permalink: /keto-shortcuts/ 
 author: Kevin Olega 
 ---
