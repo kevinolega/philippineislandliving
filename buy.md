@@ -19,9 +19,11 @@ permalink: buy
 - AAA Small Batteries for the Bike Lights
 - Tissue
 - Wet Wipes
+- Insecticide
+- Dishwashing soap
 - Liquid Ariel
 - Powdered Ariel
-- Zonrox Color Small
+- Zonrox Color bleach Small
 
 ## Supplements:
 
@@ -29,6 +31,7 @@ permalink: buy
 - Omega 3
 - Salt
 - Apple Cider Vinegar
+- Denta stick
 
 ## Office Supples:
 
