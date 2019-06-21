@@ -23,6 +23,6 @@ If you're heading out and going home immediately after your workout you may only
 
 You'll probably need some tissue, wet wipes and if you're using the shower room, bring a towel, soap, shampoo and/or conditioner as well as deodorant.
 
-If you are looking for a CrossFit box in BF Parañaque, visit [PR City](http://prcitycf.com/).
+If you are looking for a CrossFit box in BF Parañaque, visit [PR City](https://philippineislandliving.com/prcity).
 
 They are open in the morning with a 7am and a 9am class and a pm class that includes 5pm, 6pm, 7pm and 8pm.

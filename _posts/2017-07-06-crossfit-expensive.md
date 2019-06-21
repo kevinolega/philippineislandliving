@@ -107,3 +107,5 @@ If you pick a CrossFit box near your work or home so you don't spend extra on co
 That's what I have at the top of my head. 
 
 If you have some questions or tips feel free to send me a message.
+
+[I work out at PR City CrossFit in BF Homes Parañaque](https://philippineislandliving.com/prcity).
