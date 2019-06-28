@@ -49,3 +49,48 @@ This is my personal workout recommendations for myself.
 
 - Karen
 - Fran
+
+### Getting Back Program
+
+Zero Day Policy. If you can't do it, empty bar or PVC Pipe
+
+Day 1: Strength 3x3
+
+- Strict Press
+- Front Squat
+- Thrusters
+
+Day 2: Metcon
+
+AMRAP 10 Burpees
+
+Day 3: Strength 3x3
+
+- Overhead Squat
+- Sumo Deadlift
+
+Day 4: Calisthenics 30 reps
+
+- Push Ups
+- Situps
+- Air Squats
+
+Day 5: Strength 3x3
+
+- Back Squat
+- Sumo Deadlift Highpull
+
+Day 6: 18.0 21-15-9 RFT
+
+- Dumbell Snatch
+- Burpee Over Dumbell
+
+Day 7: Light Workout
+
+Double Under Practice
+3 rounds, 5 minutes.
+
+Farmer's Carry
+
+
+
