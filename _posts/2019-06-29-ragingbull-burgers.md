@@ -2,7 +2,7 @@
 layout: post 
 title: Raging Bull Burgers Shangrilla BGC
 date: 2019-06-29 01:23
-permalink: /raging-bull-bgc/ 
+permalink: /ragingbull/ 
 img: Raging Bull Burgers.jpg
 author: Kevin Olega 
 --- 
