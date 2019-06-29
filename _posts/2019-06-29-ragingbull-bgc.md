@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Raging Bull Burgers Shangrilla BGC
+title: Raging Bull Burgers Shangri-La BGC
 date: 2019-06-29 01:23
 permalink: /ragingbull/ 
 img: Raging Bull Burgers.jpg
