@@ -20,11 +20,11 @@ The first time I travelled was in Boracay. My dad and my sort of step mom sponso
 
 The next time I traveled was in Sariaya, Quezon Karlo, my high school best friend. I didn't spend a lot for the trip the first time and I learned that 1,000 - 2,000 Philippine Pesos was more than enough for a weekend here.
 
-Ish and I secretly traveled to batangas for an overnight trip one Christmas. It only cost us 3,000 php to stay there. (I hope one day I'll have more trips like this with Ish)
+I secretly traveled to batangas for an overnight trip one Christmas. It only cost us 3,000 php to stay there.
 
 Ralph drove me to Tagaytay almost everyday for a few months and I payed for the gas until I ran out of cash.
 
-I went to Malaysia Ish and Jay pitched in for my ticket then I paid them. This was my first out of the country trip. It shouldn't cost a lot but I was a hoarder and spent more than I should. Total cost was 40,000 Philippine Pesos.
+I went to Malaysia Jay pitched in for my ticket then I paid them. This was my first out of the country trip. It shouldn't cost a lot but I was a hoarder and spent more than I should. Total cost was 40,000 Philippine Pesos.
 
 Afterwards, I didn't get to travel for a long time.
 

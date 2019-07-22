@@ -13,7 +13,7 @@ Since Filipinos are service oriented we took advantage of this by having our peo
 
 Filipinos have been doing this for a long time and is getting better at it so it's pretty common these da.
 
-The only annoying thing is people ask me often why I haven't gone on to this trend. Aside from the fact that I won't leave Ish and my family to work somewhere else, is that I am confident that I am capable of working and living from anywhere and I prefer to work here at home (The Philippines).
+The only annoying thing is people ask me often why I haven't gone on to this trend. Aside from the fact that I won't leave my family to work somewhere else, is that I am confident that I am capable of working and living from anywhere and I prefer to work here at home (The Philippines).
 
 If you're from a different country and you want to move, live, or retire in the Philippines, I understand why you want to do so. Filipino's might require a lot of explanation  for this so I prepared some.
 

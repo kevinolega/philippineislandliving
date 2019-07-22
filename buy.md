@@ -5,25 +5,37 @@ permalink: buy
 ---
 ## Food:
 
-- Bulalo
-- Ground Beef
-- Ribs
-- Steak
+One or two meat dishes depending on your budget.
+
+- Lamb (BEST CHOICE)
+- Bulalo (MID RANGE)
+- Ground Beef (BUDGET)
+- Eggs (BUDGET)
+- Butter
+- Ribs (MID RANGE)
+- Steak (ON OCCASION)
 - Mozzarella or Cream Cheese
 - Tomato Sauce or Paste
 - Sinigang Mix
 - Beef Broth Cubes
+- Sour Cream
+- Large water (if you feel like getting a snack while you're there).
 
 ## Supplies:
 
+Check if you have these.
+
 - AAA Small Batteries for the Bike Lights
-- Tissue
+- Travel Tissue
 - Wet Wipes
 - Insecticide
 - Dishwashing soap
-- Liquid Ariel
-- Powdered Ariel
+- Liquid Laundry soap
+- Powdered Laundry Soap
 - Zonrox Color bleach Small
+- Disposable razor
+- Dog food.
+- Garbage bags
 
 ## Supplements:
 
@@ -35,9 +47,12 @@ permalink: buy
 
 ## Office Supples:
 
+ON HOLD - WE ARE DROWNING IN OFFICE SUPPLIES
+
 - Veco Notebooks
 - Muji Notebooks
 - Fountain Pen Ink
+- Victory Notebook
 
 ## These Items Stay In The Store:
 

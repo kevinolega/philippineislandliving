@@ -10,7 +10,7 @@ categories: [Uncategorized]
 <h2></h2>
 <h2>Broke Travel Adventures: My Birthday Celebration.</h2>
 Here’s the story on how I got the idea for Broke Travel Adventures:
-I celebrated my birthday last October eating at the canteen, having a FaceTime session with Ish and feasting on Sean’s home-made spaghetti. The day before that my workmates asked me to treat them. I bought pizza for everyone and they pitched in for some ice cream.
+I celebrated my birthday last October eating at the canteen, having a FaceTime session and feasting on Sean’s home-made spaghetti. The day before that my workmates asked me to treat them. I bought pizza for everyone and they pitched in for some ice cream.
 
 I then decided to make my birthday extra special. This is my first time to celebrate my birthday with friends (not at work) and my first time to treat my friends and pay for everything.
 
