@@ -1,13 +1,12 @@
 --- 
 layout: post 
-title: 
+title: Carnivore is the ultimate minimalist diet
+img: 2016-07-24 17.59.05.jpg
 date: 2019-08-05 09:18
 Tags: [ uncategorized, blog ]
-permalink: // 
+permalink: /carnivore-minimalist/ 
 author: Kevin Olega 
 --- 
-
-
 Carnivore is the ultimate minimalist diet.
 
 I previously explored a plant heavy diet.
@@ -78,10 +77,26 @@ Now I'm seriously considering letting go of five boxes of kitchen tools.
 
 Eating steak everyday is not as expensive as I initially thought.
 
-Some notes.
+I only eat once or twice a day.
 
-I'm not doing it for weightloss. 
+I spend about 300-400/day on average for one or two meals.
+
+## Some notes.
+
+I'm not doing it for weightloss.
 
 I'm doing it for mental clarity.
 
 And it feels great.
+
+Self care precedes environmental care.
+
+The plant-eater version me just wants to brace for the incoming conflict or running away.
+
+I don't freeze as much now when life gets stressful.
+
+I now have this smile and press forward attitude.
+
+I feel you can just eat any problem that life throws at you.
+
+![IMAGE TEXT]({{ site.url }}/images/2016-07-24 17.59.05.jpg).
