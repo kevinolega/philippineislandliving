@@ -81,9 +81,9 @@ I only eat once or twice a day.
 
 I spend about 300-400/day on average for one or two meals.
 
-## Some notes.
+Some notes.
 
-I'm not doing it for weightloss.
+I'm not doing it for weightloss. 
 
 I'm doing it for mental clarity.
 
@@ -91,12 +91,98 @@ And it feels great.
 
 Self care precedes environmental care.
 
-The plant-eater version me just wants to brace for the incoming conflict or running away.
+Some people insist balance diet:
 
-I don't freeze as much now when life gets stressful.
+It's not minimalist. 
 
-I now have this smile and press forward attitude.
+Give it more thought. 
 
-I feel you can just eat any problem that life throws at you.
+One pan, one plate, one minute of preparation. 
+
+Eat with your hands.
+
+I also tried not cooking the meat.
+
+That's more minimalist. 
+
+But I still enjoy the meat warm. So I kept the cooking step maybe 70% of the time.
+
+## Pre-Carnivore Grocery List
+
+1. Lettuce
+2. Cabbage
+3. Beans
+4. Lentils
+5. Broccoli
+6. Squash
+7. Carrots
+8. Salt
+9. Cucumber
+10. Tomato
+11. Garlic
+12. Onion
+13. Carrots
+14. Sweet potato
+15. Kimchi
+16. Cumin
+17. Cloves
+18. Cinnamon
+19. Smoked Paprika
+20. Turmeric
+21. Curry Powder
+22. Salt
+23. Whole Pepper
+24. Apple Cider Vinegar
+25. Balsamic Vinegar
+26. Red Wine Vinegar
+27. Sherry Vinegar
+28. Olive Oil
+29. Spinach
+30. Kale
+31. Bok-Choy
+32. Thyme
+33. Basil
+34. Cashew
+35. Almonds
+36. Green Peppers
+37. Feta Cheese
+38. Eggs
+39. Seaweed
+40. Olives
+41. Capers
+42. Japanese Mayo
+43. Butter
+44. Djion Mustard
+45. Supplements 
+
+## Pre-Carnivore Menu: 
+
+1. Greek Salad
+2. Meatless Chilli
+3. Steamed Bok-Choy
+4. Curry Lentils
+5. Carrot and Cucumber Salad
+6. California Maki Salad
+7. Baked Butter Broccoli
+8. Stirfry Cabbage
+9. Pesto
+
+Then there's the time penalty, you can't do a full week of groceries because everything needs to be fresh and sometimes go bad.
+
+## Carnivore Grocery List 
+
+I typically only buy one or sometimes two items a week
+
+1. Lamb Chops
+2. Beef Shanks
+3. Heart and Liver when buying in the market.
+4. Brain (wishlist)
+5. Salt
+
+Carnivore Menu:
+
+1. Steak
+2. Bulalo
+3. Sashimi
 
 ![IMAGE TEXT]({{ site.url }}/images/2016-07-24 17.59.05.jpg).
