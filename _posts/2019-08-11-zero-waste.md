@@ -1,6 +1,7 @@
 --- 
 layout: post 
 title: Thoughts on Zero Waste
+img: Plastic.jpg
 date: 2019-08-11 15:33
 Tags: [ uncategorized, blog ]
 permalink: /zero-waste/ 
@@ -145,6 +146,8 @@ Use it.
 And maybe stop buying those eco-bags since you already have so many.
 
 You're being tricked by the marketing department again.
+
+![IMAGE TEXT]({{ site.url }}/images/Plastic.jpg).
 
 ## Last words
 
