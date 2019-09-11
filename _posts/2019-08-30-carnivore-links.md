@@ -46,6 +46,10 @@ Here's the study they quote. Unfortunately nobody reads it and just nods their h
 
 [7 Reasons to Eat More Saturated Fat](https://tim.blog/2009/06/06/saturated-fat/).
 
+## Australian Government Recomends Eating More Red Meat to Fight Depression
+
+[Australian Government admits surprise](https://www.telegraph.co.uk/news/9158235/Red-meat-halves-risk-of-depression.html).
+
 ## Resource Websites
 
 [Meat Heals](http://meatheals.com)
