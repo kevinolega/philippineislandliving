@@ -27,7 +27,9 @@ From most filling to least filling.
 ## Basic Rules
 
 1. Don't drink the sauce.
-
+2. Although beef is the best, lower tier item are way better than eating junk food.
+3. You are not required to eat everything. Give the rice and vegetables to someone else. 
+f
 ## Matty's Tapsilog place
 
 I live near a Matty's branch.
@@ -42,7 +44,7 @@ Dinuguan is a traditional Spartan dish so it feels great to eat it.
 
 When I feel I need to eat more, I order sisig or barbeque.
 
-![IMAGE TEXT]({{ site.url }}/images/mattys.jpg).
+![IMAGE TEXT]({{ site.url }}/images/Mattys.HEIC).
 
 ![IMAGE TEXT]({{ site.url }}/images/Dinuguan Caldereta Carnivore.JPG).
 
@@ -58,7 +60,7 @@ Sometimes these are not available and I don't like wasting food so I order Filip
 
 I also end up ordering full dishes instead of the rice meal options.
 
-![IMAGE TEXT]({{ site.url }}/images/filipino-carnivore.jpg).
+![IMAGE TEXT]({{ site.url }}/images/Keto-Sinigang.jpg).
 
 ## Roast
 
