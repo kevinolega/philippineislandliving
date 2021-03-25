@@ -86,7 +86,7 @@ He’s not denying that I anticipated his intention correctly.
 
 I live here and I worked here and I’m just going to buy food. 
 
-I yelled one more time. 
+I asserted one more time. 
 
 With more people looking, he can’t shoot me I thought to myself. 
 
@@ -156,7 +156,7 @@ He offered a solution to make an order and make the guy who post trike service t
 
 He said he'd be baffled the same if he was in my situation and encouraged me to comply.
 
-He told me that BF is stressed because Alabang Hills, it's next door neighbor has a confirmed case of the Corona Virus.
+He told me that BF is stressed because Alabang Hills, the next door neighbor has a confirmed case of the Corona Virus.
 
 I thank them for giving a proper answer and for acting like a decent human being.
 
