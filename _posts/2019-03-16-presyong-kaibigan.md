@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Presyong Kaibigan Policy
+title: PRESYONG KAIBIGAN POLICY
 date: 2019-03-16 18:46
 img: support friends.jpeg
 permalink: /presyong-kaibigan/ 
@@ -8,7 +8,7 @@ author: Kevin Olega
 --- 
 When I was younger, I developed the terrible of habit of asking professional friends and friends who own businesses to provide their products and/or services to me at the lowest possible rates.
 
-**Poisonous Way to do Business**
+**POISONOUS WAY TO DO BUSINESS**
 
 I would sometimes go out of my way and ask around friends who know anyone who owns a company or service provider for what I am looking for because my intention was to get the lowest possible price.
 
@@ -20,7 +20,7 @@ I thought I got away with getting items and services done for free.
 
 This mindset had hurt me both in my business and personal life. 
 
-**Basic Business Sense**
+**BASIC BUSINESS SENSE**
 
 At the time of this writing, I am now 33 and have transitioned from a commission-based income to earning a monthly salary to freelancing and earning my money from selling my services and product.
 
@@ -30,7 +30,7 @@ If a business does not earn enough money within a certain month, they are at ris
 
 This problem is also experienced by professionals.
 
-**Painful Medium Term Damaging Long Term Loss**
+**PAINFUL MEDIUM TERM DAMAGING LONG TERM LOSS**
 
 By making it a goal to pay the lowest possible price, I ended up hurting the business and livelihood of my friends.
 
@@ -40,7 +40,7 @@ Even worse, I unknowingly insulted and alienated the business owners and other p
 
 What I didn't realize until later on is that this way of life also poisoned my mind in a very sinister way. 
 
-**Karma is a Bitch**
+**KARMA IS A BITCH**
 
 Because I expected people to give things to me at a the lowest possible price, I also saw giving services at the lowest possible price as an option and almost everyone who did business with me saw that opportunity and exacxtly the same to me.
 
@@ -62,7 +62,7 @@ One client abandoned me with a $800 debt and given that the client is out of the
 
 Recently, an old business acquaintance had attempted to get away with paying me $24 for a job that took an over 24 hours. He skilfully tried to corner me into a position where I'm forced to agree to $24 and had only agreed to adjust the payment after realizing that an intervention from our common friend will be bad for his business.
 
-**Business Owners Are People With Bills to Pay**
+**BUSINESS OWNERS ARE PEOPLE WITH BILLS TO PAY**
 
 First of, the most valuable resources that we have in life are money, time and attention. 
 
@@ -74,7 +74,7 @@ Trying to get people to lower their prices is like asking people to spend their 
 
 The computer they use, the phone they use to communicate, the rent, the electricity, internet, the salary of employees, permits and documents, the capital to start a business, and a shitload of unforeseen expenses are covered by business owners.
 
-**Change That Toxic Thinking**
+**CHANGE TOXIC THINKING**
 
 When I realized the error of my ways, I started to pay people the full price for everything.
 
@@ -96,7 +96,7 @@ If a product or service delivers value on a consistent basis, you want the busin
 
 If the company goes out of business, you lose out. 
 
-**No more negotiation?**
+**NO MORE NEGOTIATION?**
 
 It depends. 
 
@@ -114,7 +114,7 @@ How do you want to be treated?
 
 If you suddenly found out that your salary had a 50% deduction, how long do you imagine you can you stay motivated?
 
-### How Should I Do Business With My Friends?
+### HOW SHOULD I DO BUSINESS WITH MY FRIENDS?
 
 One thing to consider is when you buy something, whatever it is you are buying, you are paying money to receive a benefit.
 
@@ -122,15 +122,15 @@ In exchange for your money, you will be depending on the other person to deliver
 
 What do you think happens when you attempt to short-change the person working for you?
 
-**Consider Market Price**
+**CONSIDER MARKET PRICE**
 
 If you are in a difficult financial spot, consider just paying market price or take your business elsewhere. If you are doing business to help your friend, you should do business with your friend in a way that your requests are reasonable and the price is fair for the both of you. Both of you should benefit from the transation. Pay the full price whenever possible.
 
-**Ask for 10% off.**
+**ASK FOR 10% OFF.**
 
 I have a policy of asking for 10% off on everything I buy. Whenever I buy something, I buy it based on value and not because I can get it cheaper than market price. Any discount that I can get is a bonus and a discount should not be the primary motivator for the sale. So when I ask for a 10% discount, a person is not really required to give it to me and I'll still buy what I want to buy.
 
-**Do You Sincerely Want To Support Your Friend?**
+**DO YOU SINCERELY WANT TO SUPPORT YOUR FRIEND?**
 
 If a person is really your friend, pay the full asking price and add 30-50% to the price. Pay them in advance. TIP actually means "to insure performance". If a person is happy with the price they are motivated with the work. 
 

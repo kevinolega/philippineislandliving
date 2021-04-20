@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Carnivore is the ultimate minimalist diet
+title: CARNIVORE IS THE ULTIMATE MINIMALIST DIET
 img: 2016-07-24 17.59.05.jpg
 date: 2019-08-05 09:18
 Tags: [ uncategorized, blog ]
