@@ -1,6 +1,21 @@
-<footer class="footer">
-  {% for item in site.data.settings.social %}
-    <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
-  {% endfor %}
-  <div class="post-date"><a href="{{ site.github.url }}/">{{ site.title }} | {{ site.description }} by {{ site.author }}</a></div>
+<footer>
+    <div class="container">
+        <div class="row p20">
+            {% if site.copyright.name %}
+                <div class="col-md-4 text-center mt25">All rights reserved by <a target="_blank" href="{{site.copyright.link}}">{{site.copyright.name}}</a></div>
+            {% endif %}
+
+            <div class="col-md-4 text-center mt25" >
+                {% if site.built-by %}
+                <a target="_blank" href="http://kevinolega.com">by Kevin Olega</a>
+                {% endif %}
+            </div>
+            <div class="col-md-4 text-center mt25">
+                <a target="_blank" href="{{site.facebook}}"><li class="social facebook"><img src="{{site.baseurl}}/images/facebook.svg" alt="{{site.facebook}}"></li></a> 
+                <a target="_blank" href="{{site.twitter}}"><li class="social twitter"><img src="{{site.baseurl}}/images/twitter.svg" alt="{{site.twitter}}"></li></a>      
+                <a target="_blank" href="{{site.github}}"><li class="social github"><img src="{{site.baseurl}}/images/github.svg" alt="{{site.github}}"></li></a>
+            </div>
+
+        </div> 
+    </div>
 </footer>
