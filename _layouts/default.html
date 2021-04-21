@@ -1,17 +1,24 @@
-<!doctype html>
-<html>
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
-{% include head.html %}
+  {% include head.html %}
 
-<body>
-
-<div class="container">
+</head>
+<body id="{% if page.title %}{{ page.title | slugify }}{% else %}home{% endif %}" class="{{ page.layout | downcase }}-layout">
+  
   {% include header.html %}
-  <div class="posts-wrapper">
+
+  <main class="💈">
+
     {{ content }}
-  </div>
+    
+  </main>
+
   {% include footer.html %}
-</div>
 
 </body>
 </html>
