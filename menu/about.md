@@ -1,6 +1,18 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: About
+permalink: about
 ---
+![Kevin holding ice cream]({{ site.url }}/images/Kevin2019.jpg).
 
-Update the `menu/about.md` file to change your About page.
+This website is a home for tips and opportunities about a wide range of different topics about Philippine Island Living.
+
+Lifehacks and Experiments about
+
+- Ketogenic Diet
+- Carnivore Diet
+- Cycling
+- Fitness
+
+
+All information is based on the author's experience if you somehow feel that it does not comply with your expectations please feel free to send hatemail (philippine island living at gmail dot com)

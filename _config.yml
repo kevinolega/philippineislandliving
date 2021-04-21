@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'PHILIPPINE ISLAND LIVING'
-description:	       'stories of humans in the Philippines'
+description:	       'written by humans'
 author:              'Kevin Olega!'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
