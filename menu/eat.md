@@ -3,7 +3,7 @@ layout: page
 title: Where and What To Eat?
 permalink: eat
 ---
-![Kevin holding ice cream]({{ site.url }}/images/Kevin2019.jpg).
+![Kevin holding ice cream]({{ site.url }}/assets/img/Kevin2019.jpg).
 
 Cheatsheet Random Calendar Generator
 

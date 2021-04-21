@@ -24,4 +24,4 @@ Save on Food Expenses
 
 First Major Victory of The Day
 
-![IMAGE TEXT]({{ site.url }}/images/workout.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/workout.jpg).

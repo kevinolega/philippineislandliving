@@ -16,7 +16,7 @@ He usually gets to lead at the front of the pack.
 
 But he is easily able to slow down to check on people who are left behind and has assisted me many times.
 
-![Bike to Subic]({{ site.url }}/images/Bike to Subic 2016.jpg).
+![Bike to Subic]({{ site.url }}/assets/img/Bike to Subic 2016.jpg).
 
 I'm the guy in the orange helmet and the fixed gear is the orange bike
 
@@ -58,7 +58,7 @@ The seventh and final purchase was in Makati, I got the rear brake lever, had a 
 
 I assembled the bike for the 2017 Sun Life Financial Cycling Event where a team of four consided of my uncle, his friend, me and my friend.
 
-![Kevin on the finish line]({{ site.url }}/images/February 04, 2018 at 12_06AM.jpg).
+![Kevin on the finish line]({{ site.url }}/assets/img/February 04, 2018 at 12_06AM.jpg).
 
 ### Fixed Gear First Impressions:
 

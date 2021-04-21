@@ -51,4 +51,4 @@ Unfortunately you'll need to be at BGC to enjoy this.
 
 [Learn more about Raging Bull Burgers by visiting their website](https://www.ragingbullburgers-fort.com/).
 
-![IMAGE TEXT]({{ site.url }}/images/Raging Bull Thick and Tasty.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/Raging Bull Thick and Tasty.jpg).

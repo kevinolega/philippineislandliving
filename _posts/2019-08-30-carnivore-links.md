@@ -75,4 +75,4 @@ American Record Deadlift 772lbs (350kg) Natural Association Of Strength Athletes
 [Dr. Shawn Baker](https://www.shawn-baker.com/)
 
 
-![IMAGE TEXT]({{ site.url }}/images/Meat 2.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/Meat 2.jpg).

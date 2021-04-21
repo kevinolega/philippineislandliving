@@ -343,4 +343,4 @@ This is also the reason why I think eating just meat is better for the environme
 Meat only requires less fossil fuel and plastic.
 
 
-![IMAGE TEXT]({{ site.url }}/images/2016-07-24 17.59.05.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/2016-07-24 17.59.05.jpg).

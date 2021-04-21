@@ -20,4 +20,4 @@ So I'm not complaining.
 
 [You checkout Takamura's Facebook page here](https://www.facebook.com/TakamuraPH/)
 
-![Takamura Ramen]({{ site.url }}/images/Takamura Ramen.jpg).
+![Takamura Ramen]({{ site.url }}/assets/img/Takamura Ramen.jpg).

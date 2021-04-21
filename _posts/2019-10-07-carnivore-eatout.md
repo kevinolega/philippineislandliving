@@ -44,9 +44,9 @@ Dinuguan is a traditional Spartan dish so it feels great to eat it.
 
 When I feel I need to eat more, I order sisig or barbeque.
 
-![IMAGE TEXT]({{ site.url }}/images/Mattys.HEIC).
+![IMAGE TEXT]({{ site.url }}/assets/img/Mattys.HEIC).
 
-![IMAGE TEXT]({{ site.url }}/images/Dinuguan Caldereta Carnivore.JPG).
+![IMAGE TEXT]({{ site.url }}/assets/img/Dinuguan Caldereta Carnivore.JPG).
 
 ## Filipino Food
 
@@ -60,7 +60,7 @@ Sometimes these are not available and I don't like wasting food so I order Filip
 
 I also end up ordering full dishes instead of the rice meal options.
 
-![IMAGE TEXT]({{ site.url }}/images/Keto-Sinigang.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/Keto-Sinigang.jpg).
 
 ## Roast
 
@@ -88,7 +88,7 @@ Kebab is just ground beef and some spices. I usually order these or Keema.
 
 Khorma is a Persian version of kaldereta with more spices and I like this a lot.
 
-![IMAGE TEXT]({{ site.url }}/images/Persian Carnivore.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/Persian Carnivore.jpg).
 
 ## Chinese Food
 
@@ -96,19 +96,19 @@ I order chicken feet and spareribs.
 
 I get asado, lechon macau, or any meat dish. 
 
-![IMAGE TEXT]({{ site.url }}/images/Chinese Carnivore.HEIC).
+![IMAGE TEXT]({{ site.url }}/assets/img/Chinese Carnivore.HEIC).
 
-![IMAGE TEXT]({{ site.url }}/images/feet_pork_egg.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/feet_pork_egg.jpg).
 
-![IMAGE TEXT]({{ site.url }}/images/Beef Tendon Eat Fresh.JPG).
+![IMAGE TEXT]({{ site.url }}/assets/img/Beef Tendon Eat Fresh.JPG).
 
-![IMAGE TEXT]({{ site.url }}/images/Spare Ribs Eat Fresh.HEIC).
+![IMAGE TEXT]({{ site.url }}/assets/img/Spare Ribs Eat Fresh.HEIC).
 
 ## Korean Food
 
 I just eat the plain beef cuts from Sangyupsal and ocassionally kimchi.
 
-![IMAGE TEXT]({{ site.url }}/images/Korean Carnivore.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/Korean Carnivore.jpg).
 
 ## Supermarket 
 
@@ -116,7 +116,7 @@ Whenever I feel like eating fresh meat I check the supermarket if they have fres
 
 If good meat is available, I get ribeye or beef cubes. 
 
-![IMAGE TEXT]({{ site.url }}/images/DIY Salmon Sashimi.HEIC).
+![IMAGE TEXT]({{ site.url }}/assets/img/DIY Salmon Sashimi.HEIC).
 
 ## Convenience Stores
 
@@ -130,20 +130,20 @@ I primarily eat some form of curry rice dish here but it's not carnivore.
 
 But when I'm at a good place, it's usually salmon sashimi for me.
 
-![IMAGE TEXT]({{ site.url }}/images/Japanese Carnivore.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/Japanese Carnivore.jpg).
 
 ## Others
 
 If I'm out, I just order the meat dish.
 
-![IMAGE TEXT]({{ site.url }}/images/Meat Dish.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/Meat Dish.jpg).
 
 If the price is good, I order steak.
 
-![IMAGE TEXT]({{ site.url }}/images/Carnivore Steak.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/Carnivore Steak.jpg).
 
 I only get salmon sashimi and beef and lamb at all you can eat buffets.
 
-![IMAGE TEXT]({{ site.url }}/images/buffet.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/buffet.jpg).
 
-![IMAGE TEXT]({{ site.url }}/images/Dayrits Roastbeef Carnivore.HEIC).
+![IMAGE TEXT]({{ site.url }}/assets/img/Dayrits Roastbeef Carnivore.HEIC).
