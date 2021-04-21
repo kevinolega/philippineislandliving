@@ -2,7 +2,7 @@
 layout: post
 title: Introduction to Archery Supplies
 date: 2016-07-09 02:58
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

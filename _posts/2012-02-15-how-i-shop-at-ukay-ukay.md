@@ -2,7 +2,7 @@
 layout: post
 title: How I Shop at Ukay Ukay
 date: 2012-02-15 10:57
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

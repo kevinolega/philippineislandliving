@@ -2,7 +2,7 @@
 layout: post
 title: Major Opportunities in the Philippines Pwede Na
 date: 2011-03-02 13:02
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [blog, major business opportunities in the philippines, Major Business Opportunities in the Philippines, Philippines, Philippines, Pwede na]
 ---

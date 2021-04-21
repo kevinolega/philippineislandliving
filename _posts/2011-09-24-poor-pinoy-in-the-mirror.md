@@ -2,7 +2,7 @@
 layout: post
 title: Poor Pinoy In The Mirror
 date: 2011-09-24 11:09
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [blog]
 ---

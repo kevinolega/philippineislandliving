@@ -2,7 +2,7 @@
 layout: post
 title: How to Avoid Being Broke Because of iPhone
 date: 2011-11-22 07:12
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

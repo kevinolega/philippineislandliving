@@ -2,7 +2,7 @@
 layout: post
 title: This is so Unfilipino
 date: 2011-06-06 00:00
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [blog, blog, Philippines]
 ---

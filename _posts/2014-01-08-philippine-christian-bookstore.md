@@ -2,7 +2,7 @@
 layout: post
 title: Philippine Christian Book Store
 date: 2014-01-08 09:25
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

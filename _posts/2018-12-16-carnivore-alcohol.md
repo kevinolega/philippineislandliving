@@ -3,7 +3,7 @@ layout: post
 title: Dangerous Downside of the Carnivore Diet
 date: 2018-12-16 01:35
 permalink: /carnivore-risk/ 
-img: Carnivore Downside.jpg
+image: Carnivore Downside.jpg
 author: Kevin Olega 
 --- 
 The carnivore diet's downside left me dumbfounded.

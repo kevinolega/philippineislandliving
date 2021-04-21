@@ -2,7 +2,7 @@
 layout: post
 title: My Old School Money Saving Allowance Strategy
 date: 2014-03-10 13:32
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [tips]
 ---

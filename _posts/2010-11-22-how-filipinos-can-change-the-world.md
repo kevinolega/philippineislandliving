@@ -2,7 +2,7 @@
 layout: post
 title: How Filipinos Can Change The World
 date: 2010-11-22 21:02
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [blog, Philippines, Philippines, Uncategorized]
 ---

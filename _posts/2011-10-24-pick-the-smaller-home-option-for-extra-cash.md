@@ -2,7 +2,7 @@
 layout: post
 title: Pick The Smaller Home Option For Extra Cash
 date: 2011-10-24 00:00
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

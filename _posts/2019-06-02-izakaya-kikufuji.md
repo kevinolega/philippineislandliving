@@ -3,7 +3,7 @@ layout: post
 title: Izakaya Kikufuji Serves level 99 California Maki
 date: 2019-06-02 08:30
 permalink: /kikufuji/ 
-img: February 01, 2018 at 09_17PM.jpg
+image: February 01, 2018 at 09_17PM.jpg
 author: Kevin Olega 
 --- 
 I go to Izakaya Kikufuji for their generous serving of salmon sashimi.

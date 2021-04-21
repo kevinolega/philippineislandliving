@@ -2,7 +2,7 @@
 layout: post
 title: Khua Thai BF Paranaque
 date: 2013-07-22 09:02
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

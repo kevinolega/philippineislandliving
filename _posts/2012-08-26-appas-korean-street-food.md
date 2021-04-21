@@ -2,7 +2,7 @@
 layout: post
 title: Appa's Korean Street Food
 date: 2012-08-26 15:34
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

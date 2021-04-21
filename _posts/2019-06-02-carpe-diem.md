@@ -3,7 +3,7 @@ layout: post
 title: Carpe Diem in BF Homes is Great if You Work From Anywhere
 date: 2019-06-02 08:50
 permalink: /carpe-diem/ 
-img: February 21, 2018 at Carpe Diem.jpg
+image: February 21, 2018 at Carpe Diem.jpg
 author: Kevin Olega 
 --- 
 Carpe Diem in BF Homes has fast internet.

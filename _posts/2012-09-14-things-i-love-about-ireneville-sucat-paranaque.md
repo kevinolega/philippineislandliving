@@ -2,7 +2,7 @@
 layout: post
 title: Things I Love About Ireneville Sucat Parañaque
 date: 2012-09-14 19:38
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

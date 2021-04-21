@@ -3,7 +3,7 @@ layout: post
 title: Ralph and I Joined the 2019 Alabang Hills Fun Run
 date: 2019-01-02 10:57
 permalink: /ahills-run/ 
-img: FunRunJanuary2019.JPG
+image: FunRunJanuary2019.JPG
 author: Kevin Olega 
 --- 
 It was his first time to join.

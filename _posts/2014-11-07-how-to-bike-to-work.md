@@ -2,7 +2,7 @@
 layout: post
 title: How To Bike To Work
 date: 2014-11-07 13:46
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [blog, See through my eyes]
 ---

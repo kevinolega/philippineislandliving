@@ -2,7 +2,7 @@
 layout: post
 title: Fukuya Japanese Restaurant Festival Mall
 date: 2014-11-03 10:02
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Food, Restaurants]
 ---

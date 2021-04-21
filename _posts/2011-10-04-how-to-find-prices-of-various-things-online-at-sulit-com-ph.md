@@ -2,7 +2,7 @@
 layout: post
 title: How to Find Prices of Various Things Online at OLX
 date: 2011-10-04 05:27
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [blog, buying, tips, tips]
 ---

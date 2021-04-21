@@ -2,7 +2,7 @@
 layout: post
 title: Khaleb Shawarma Shawarma Rice Cravings
 date: 2013-08-01 20:37
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Fast Food, Uncategorized]
 ---

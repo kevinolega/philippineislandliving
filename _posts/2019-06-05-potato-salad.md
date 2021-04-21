@@ -3,7 +3,7 @@ layout: post
 title: Crispy Panchetta on Potato Salad with Tarragon Mayo
 date: 2019-06-05 01:15
 permalink: /fancy-potato-salad/ 
-img: PotatoSalPanMayo.jpg
+image: PotatoSalPanMayo.jpg
 Tags: [ food, recipe, blog ]
 author: Kevin Olega 
 ---

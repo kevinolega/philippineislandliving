@@ -2,7 +2,7 @@
 layout: post
 title: The New Philippine Island Living
 date: 2011-05-14 01:32
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [announcements, blog]
 ---

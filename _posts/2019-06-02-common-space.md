@@ -3,7 +3,7 @@ layout: post
 title: The Common Space is the Best Coworking Space inside BF Parañaque
 date: 2019-06-02 10:33
 Tags: [ BF, Coworking Space, blog ]
-img: Common2018.jpg
+image: Common2018.jpg
 permalink: /common-space/ 
 author: Kevin Olega 
 --- 

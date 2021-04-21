@@ -3,7 +3,7 @@ layout: post
 title: Franken Plates Available at Barbel Medic 
 date: 2020-10-20 21:19
 permalink: /barbellmedic/ 
-img: 
+image: 
 author: Kevin Olega 
 --- 
 I like buying pre-owned stuff for the novelty.

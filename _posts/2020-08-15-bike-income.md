@@ -3,7 +3,7 @@ layout: post
 title: How to Turn Your Bike into an Income Source
 date: 2020-08-15 12:22
 permalink: /bikein/ 
-img: 
+image: 
 author: Kevin Olega 
 --- 
 I originally got my bicycle for the purpose of bike commuting.

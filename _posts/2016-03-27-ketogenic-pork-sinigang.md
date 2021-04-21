@@ -2,9 +2,9 @@
 layout: post
 title: Ketogenic Pork Sinigang
 date: 2016-03-27 13:52
-author: phislife
+author: Kevin Olega
 comments: true
-img: Keto-Sinigang.jpg
+image: Keto-Sinigang.jpg
 categories: [Uncategorized]
 ---
 I'm from the Philippines and I'm having trouble implementing the slow carb diet and the Ketogenic diet. I'm experimenting ketogenic friendly meals.

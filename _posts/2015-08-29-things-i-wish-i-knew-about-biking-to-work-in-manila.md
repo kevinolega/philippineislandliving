@@ -2,7 +2,7 @@
 layout: post
 title: Things I Wish I Knew About Biking to Work in Manila
 date: 2015-08-29 15:35
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

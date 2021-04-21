@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to Philippine Island Living
 date: 2011-06-13 02:28
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [blog]
 ---

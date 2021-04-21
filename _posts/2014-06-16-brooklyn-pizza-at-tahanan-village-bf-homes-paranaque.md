@@ -2,7 +2,7 @@
 layout: post
 title: Brooklyn Pizza at Tahanan Village BF Homes Paranaque
 date: 2014-06-16 12:41
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Food, Uncategorized]
 ---

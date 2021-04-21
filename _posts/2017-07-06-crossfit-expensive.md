@@ -3,7 +3,7 @@ layout: post
 title: Financial Obstacles to CrossFit in the Philippines
 date: 2017-07-06 01:09
 permalink: /crossfit-costs/ 
-img: Crossfit Broke 2017.png
+image: Crossfit Broke 2017.png
 author: Kevin Olega 
 --- 
 CrossFit is expensive.  

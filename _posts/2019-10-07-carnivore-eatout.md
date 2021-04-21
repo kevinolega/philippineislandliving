@@ -3,7 +3,7 @@ layout: post
 title: How I Eat Out for Carnivore Diet
 date: 2019-10-07 13:58
 permalink: /carnivore-eatout/ 
-img: Carnivore Birthday.jpg
+image: Carnivore Birthday.jpg
 author: Kevin Olega 
 --- 
 Who says it's difficult to eat out when you're eating health (Keto, Paleo, Carnivore)? 

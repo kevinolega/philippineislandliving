@@ -2,7 +2,7 @@
 layout: post
 title: All Day Breakfast At Guernica's at SM BF
 date: 2014-05-27 18:59
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

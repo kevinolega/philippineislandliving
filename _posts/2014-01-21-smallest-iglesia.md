@@ -2,7 +2,7 @@
 layout: post
 title: The Smallest Iglesia Ni Cristo Church I've Ever Seen
 date: 2014-01-21 15:29
-img: Small Iglesia 2014.jpg
+image: Small Iglesia 2014.jpg
 author: Kevin Olega
 comments: true
 categories: [Church, Iglesia ni Cristo, See through my eyes, Smallest]

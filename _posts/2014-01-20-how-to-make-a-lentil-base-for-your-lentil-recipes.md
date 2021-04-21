@@ -2,7 +2,7 @@
 layout: post
 title: How To Make A Lentil Base For Your Lentil Recipes
 date: 2014-01-20 17:12
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Cooking, Food, Food, Lentils, Recipes]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Tuor Lousoy Chicken
 date: 2012-01-15 17:01
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Food, Uncategorized]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Sencha is a Relaxing Place for Colorful Sweet Drinks, Koreans and Fast Internet
 date: 2014-01-09 09:50
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Throwback]
 ---

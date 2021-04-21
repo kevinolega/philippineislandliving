@@ -2,7 +2,7 @@
 layout: post
 title: Mongkok Lunch
 date: 2012-08-16 19:00
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Food]
 ---

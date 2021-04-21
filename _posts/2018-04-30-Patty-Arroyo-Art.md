@@ -3,7 +3,7 @@ layout: post
 title: Buy Patty Arroyo's Art
 date: 2018-04-30 07:28
 permalink: /patty/ 
-img: patty super.jpg
+image: patty super.jpg
 author: Kevin Olega 
 --- 
 I'm a big fan of supporting local artists.

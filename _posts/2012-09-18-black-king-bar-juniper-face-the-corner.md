@@ -2,7 +2,7 @@
 layout: post
 title: First look at Black King's Bar and Juniper Face The Corner
 date: 2012-09-18 10:57
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

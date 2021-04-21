@@ -5,7 +5,7 @@ date: 2019-05-31 12:37
 Tags: [ Eat Out, blog ]
 comments: true
 permalink: /serye-keto/
-img: Serye2019.jpg
+image: Serye2019.jpg
 author: Kevin Olega
 --- 
 SM BF closes at 9pm so we walked to Santana Grove to find a place to eat.

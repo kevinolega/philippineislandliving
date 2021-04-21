@@ -2,7 +2,7 @@
 layout: post
 title: Majayjay Falls and the Town of Liliw Broke Travel Adventures
 date: 2012-02-14 13:36
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [blog, Uncategorized]
 ---

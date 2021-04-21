@@ -2,7 +2,7 @@
 layout: post
 title: Alternate Lifestyle to Philippine Stereotypes
 date: 2013-12-16 17:16
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

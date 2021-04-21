@@ -2,7 +2,7 @@
 layout: post
 title: Smaller space
 date: 2012-03-03 15:52
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

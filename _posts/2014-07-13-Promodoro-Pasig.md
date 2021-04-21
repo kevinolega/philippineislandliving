@@ -3,7 +3,7 @@ layout: post
 title: Promodoro Pasig First Impressions
 date: 2014-07-13 07:12
 permalink: /promodoro/ 
-img: Promodoro Pasig.jpg
+image: Promodoro Pasig.jpg
 author: Kevin Olega 
 --- 
 My friend took me to Promodoro Pasig.

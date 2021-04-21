@@ -2,7 +2,7 @@
 layout: post
 title: How to Enjoy Your PNR Train Ride
 date: 2014-03-09 16:36
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

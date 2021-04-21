@@ -2,7 +2,7 @@
 layout: post
 title: Why Do I Want To Stay In The Philippines?
 date: 2010-11-18 22:55
-author: phislife
+author: Kevin Olega
 comments: true
 
 ---

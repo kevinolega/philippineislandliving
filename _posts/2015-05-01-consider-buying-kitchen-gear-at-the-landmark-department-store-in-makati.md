@@ -2,7 +2,7 @@
 layout: post
 title: Consider Buying Kitchen Gear at the Landmark Department Store In Makati
 date: 2015-05-01 17:25
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

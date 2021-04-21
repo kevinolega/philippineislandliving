@@ -3,7 +3,7 @@ layout: post
 title: I go to Alabang Public Market to Eat Raw Liver
 date: 2018-12-06 02:11
 permalink: /alabang-market/ 
-img: Alabang Market Liver.JPG
+image: Alabang Market Liver.JPG
 author: Kevin Olega 
 --- 
 I also buy heart.

@@ -2,7 +2,7 @@
 layout: post
 title: Philippine Charity
 date: 2011-06-04 17:54
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

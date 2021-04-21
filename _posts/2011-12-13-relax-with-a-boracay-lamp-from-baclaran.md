@@ -2,7 +2,7 @@
 layout: post
 title: Relax with a Boracay Lamp From Baclaran
 date: 2011-12-13 11:00
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

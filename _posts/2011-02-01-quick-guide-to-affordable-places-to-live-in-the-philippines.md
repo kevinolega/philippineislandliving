@@ -2,7 +2,7 @@
 layout: post
 title: Quick Guide to Affordable Places to Live in the Philippines 
 date: 2011-02-01 05:00
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [apartment, bedspace, blog, budget lodging, condo, house, Philippines, Philippines, Rent, room share, studio, Where to Stay]
 ---

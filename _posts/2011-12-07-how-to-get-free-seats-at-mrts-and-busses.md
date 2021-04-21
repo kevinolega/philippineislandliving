@@ -2,7 +2,7 @@
 layout: post
 title: How To Get Free Seats at MRT and Busses
 date: 2011-12-07 01:16
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

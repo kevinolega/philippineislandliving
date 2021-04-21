@@ -3,7 +3,7 @@ layout: post
 title: Why You Should Workout
 date: 2019-06-20 01:04
 permalink: /why-workout/ 
-img: workout.jpg
+image: workout.jpg
 author: Kevin Olega 
 --- 
 Feel Great

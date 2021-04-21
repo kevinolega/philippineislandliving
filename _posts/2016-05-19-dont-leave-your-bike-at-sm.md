@@ -2,9 +2,9 @@
 layout: post
 title: Don't leave your bike at SM
 date: 2016-05-19 21:22
-author: phislife
+author: Kevin Olega
 comments: true
-img: sgm-intensity.JPG
+image: sgm-intensity.JPG
 categories: [Uncategorized]
 ---
 Don't leave your bike at SM. 

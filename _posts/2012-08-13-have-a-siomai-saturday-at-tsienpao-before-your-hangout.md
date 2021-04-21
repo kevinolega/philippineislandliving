@@ -2,7 +2,7 @@
 layout: post
 title: Have a Siomai Saturday at TsienPao Before Your Hangout
 date: 2012-08-13 23:20
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

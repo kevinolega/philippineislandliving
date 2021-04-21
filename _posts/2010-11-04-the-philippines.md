@@ -2,7 +2,7 @@
 layout: post
 title: Textbook Philippines Info
 date: 2010-11-04 05:02
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [blog, Philippines, Philippines, Uncategorized]
 ---

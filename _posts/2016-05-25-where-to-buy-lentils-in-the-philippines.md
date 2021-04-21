@@ -2,10 +2,10 @@
 layout: post
 title: Where to buy lentils in the Philippines
 date: 2016-05-25 13:06
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [blog]
-img: Lentils.JPG
+image: Lentils.JPG
 ---
 Lentils are my staple for the slow carb diet. I find it difficult to find them. So I take note of where I can get them. I prefer buying Dry lentils. They cook quickly and are easy to store. They are also cheaper than the canned variants. I previously bought mine from Shopwise. After a year they stopped selling it. They only have the canned lentils from Molinera which are Php 50 a can. I use these for food emergencies but it's not practical to eat every day. Since then, I've been keeping an eye out on where I might be able to buy more lentils.
 

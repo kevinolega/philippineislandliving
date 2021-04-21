@@ -3,7 +3,7 @@ layout: post
 title: PARKING YOUR CAR IN A PRIVATE SUBDIVISION
 date: 2021-03-29 02:57
 permalink: /private-parking/ 
-img: 
+image: 
 author: Kevin Olega 
 --- 
 Barangay officers entered our village and attempted to give me a ticket and get my car towed.

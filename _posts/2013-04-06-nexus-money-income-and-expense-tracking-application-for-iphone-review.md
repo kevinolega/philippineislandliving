@@ -2,7 +2,7 @@
 layout: post
 title: Nexus Money Income and Expense Tracking Application for iPhone Review
 date: 2013-04-06 21:50
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

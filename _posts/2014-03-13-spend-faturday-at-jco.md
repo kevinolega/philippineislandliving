@@ -2,7 +2,7 @@
 layout: post
 title: Spend Faturday at JCO
 date: 2014-03-13 14:05
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Food, Restaurants, Throwback]
 ---

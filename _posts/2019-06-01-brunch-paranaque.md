@@ -3,7 +3,7 @@ layout: post
 title: Brunch Serves Comfort Food Outside Tahanan Village
 date: 2019-06-01 17:04
 permalink: /brunch-tahanan/ 
-img: Brunch2019.jpg
+image: Brunch2019.jpg
 author: Kevin Olega 
 --- 
 Brooklyn Pizza outside of Tahanan village in BF Parañaque is dead.

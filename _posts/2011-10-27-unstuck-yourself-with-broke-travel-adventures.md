@@ -2,7 +2,7 @@
 layout: post
 title: Unstuck Yourself With Broke Travel Adventures
 date: 2011-10-27 08:00
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

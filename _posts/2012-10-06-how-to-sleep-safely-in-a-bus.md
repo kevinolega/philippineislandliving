@@ -2,7 +2,7 @@
 layout: post
 title: How to Sleep Safely in a Bus
 date: 2012-10-06 18:38
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

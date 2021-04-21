@@ -2,7 +2,7 @@
 layout: post
 title: How to Safely Commute in Metro Manila
 date: 2013-11-02 17:30
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Treat yourself to a small bowl of ramen for under a hundred bucks at Samurai
 date: 2014-04-07 18:01
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

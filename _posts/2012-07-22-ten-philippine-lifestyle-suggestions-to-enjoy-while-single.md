@@ -2,7 +2,7 @@
 layout: post
 title: Ten Philippine Lifestyle Suggestions To Enjoy While Single 
 date: 2012-07-22 21:48
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

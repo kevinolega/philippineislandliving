@@ -2,7 +2,7 @@
 layout: post
 title: Baguio Broke Travel Adventure
 date: 2011-11-29 11:00
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

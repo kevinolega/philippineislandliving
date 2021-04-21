@@ -2,7 +2,7 @@
 layout: post
 title: 25 Philippine Lifehacks
 date: 2011-04-07 05:01
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [being polite to waiters, blog, dine in the philippines, eat in the philippines, eating in the philippines, restaurant etiquette in the philippines, restaurant in the philippines]
 ---

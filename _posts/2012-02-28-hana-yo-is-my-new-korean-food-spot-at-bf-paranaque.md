@@ -2,7 +2,7 @@
 layout: post
 title: Hana Yo Is My New Korean Food Spot at BF Paranaque
 date: 2012-02-28 21:22
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [blog, Food]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Apple Almond Lettuce Salad
 date: 2014-04-21 21:09
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Food]
 ---

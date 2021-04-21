@@ -2,7 +2,7 @@
 layout: post
 title: What is a Rice Meal
 date: 2011-12-12 22:11
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

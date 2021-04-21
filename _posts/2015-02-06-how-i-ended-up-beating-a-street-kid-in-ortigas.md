@@ -2,7 +2,7 @@
 layout: post
 title: How I Ended Up Beating a Street Kid In Ortigas
 date: 2015-02-06 19:15
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

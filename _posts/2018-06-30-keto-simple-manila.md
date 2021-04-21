@@ -3,7 +3,7 @@ layout: post
 title: Simple Ketogenic Meal Ideas in Manila
 date: 2018-06-30 02:19
 permalink: /simple-keto-manila/ 
-img: writing.jpg
+image: writing.jpg
 author: Kevin Olega 
 
 --- 

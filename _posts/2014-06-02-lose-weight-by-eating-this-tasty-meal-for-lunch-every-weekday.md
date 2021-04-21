@@ -2,7 +2,7 @@
 layout: post
 title: Lose Weight By Eating This Tasty Meal for Lunch Every Weekday
 date: 2014-06-02 10:14
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

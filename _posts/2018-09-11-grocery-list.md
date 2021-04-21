@@ -3,7 +3,7 @@ layout: post
 title: September 2018 Grocery List
 date: 2018-09-11 11:32
 permalink: /2018-Grocery/ 
-img: 
+image: 
 author: Kevin Olega 
 --- 
 

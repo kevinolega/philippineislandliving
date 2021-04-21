@@ -2,7 +2,7 @@
 layout: post
 title: Tips for Riding the MRT
 date: 2011-10-19 04:32
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [tips, tips]
 ---

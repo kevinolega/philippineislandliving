@@ -2,7 +2,7 @@
 layout: post
 title: Enjoy Twenty Peso Bibinkas From Bibinkinitan
 date: 2011-12-28 01:56
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Food]
 ---

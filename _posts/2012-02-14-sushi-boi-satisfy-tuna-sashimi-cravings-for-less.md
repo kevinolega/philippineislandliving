@@ -2,7 +2,7 @@
 layout: post
 title: Sushi Boi Will Satisfy Tuna Sashimi Cravings For Less
 date: 2012-02-14 12:33
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Two Weeks of Carnivore Diet in the Philippines
 date: 2018-10-07 04:23
 permalink: /carnivore-diet-philippines-first-attempt/ 
-img: microwavedbeef.jpg
+image: microwavedbeef.jpg
 author: Kevin Olega 
 --- 
 I've tried the Ketogenic diet with some success the past few years.

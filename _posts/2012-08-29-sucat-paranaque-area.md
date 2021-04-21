@@ -2,7 +2,7 @@
 layout: post
 title: What's Awesome About Sucat
 date: 2012-08-29 18:59
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

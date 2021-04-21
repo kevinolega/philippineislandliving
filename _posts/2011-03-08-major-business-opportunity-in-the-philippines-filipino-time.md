@@ -2,7 +2,7 @@
 layout: post
 title: Major Business Opportunity in the Philippines Filipino Time
 date: 2011-03-08 10:14
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [blog, business opportunities in the philippines, Filipino Time, major business opportunities in the philippines, Major Business Opportunities in the Philippines, philippine business, philippine business opportunities, Philippines, Philippines]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Retirement in the Philippines
 date: 2011-12-20 18:12
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

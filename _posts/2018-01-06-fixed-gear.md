@@ -3,7 +3,7 @@ layout: post
 title: My Experieince Building and Riding My Fixed Gear Bike
 date: 2018-01-06 23:43
 permalink: /fixed-gear/ 
-img: January 06, 2018 at 08_45AM.jpg
+image: January 06, 2018 at 08_45AM.jpg
 author: Kevin Olega 
 --- 
 I finally pulled the trigger.

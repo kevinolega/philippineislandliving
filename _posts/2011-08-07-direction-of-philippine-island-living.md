@@ -2,7 +2,7 @@
 layout: post
 title: Direction of Philippine Island Living as of August 2011
 date: 2011-08-07 05:31
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [blog]
 ---

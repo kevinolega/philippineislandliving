@@ -3,7 +3,7 @@ layout: post
 title: Dayrit's Roast Beef and Corned Beef
 date: 2019-09-21 22:03
 permalink: /dayrit/ 
-img: 
+image: 
 author: Kevin Olega 
 --- 
 Dayrit's sells the best banana cake on the planet.

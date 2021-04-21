@@ -2,7 +2,7 @@
 layout: post
 title: Quick Guide to Premium Places to Live in the Philippines 
 date: 2010-11-22 21:19
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [blog, Philippines, Philippines, Uncategorized]
 ---

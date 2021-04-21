@@ -2,7 +2,7 @@
 layout: post
 title: How to Make California Maki Salad
 date: 2013-06-24 18:47
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

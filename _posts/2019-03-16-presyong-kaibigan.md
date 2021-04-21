@@ -2,7 +2,7 @@
 layout: post 
 title: PRESYONG KAIBIGAN POLICY
 date: 2019-03-16 18:46
-img: support friends.jpeg
+image: support friends.jpeg
 permalink: /presyong-kaibigan/ 
 author: Kevin Olega 
 --- 

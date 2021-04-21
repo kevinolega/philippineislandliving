@@ -4,7 +4,7 @@ title: Carnivore Diet Links
 description:
 date: 2019-08-30 11:25
 permalink: /carnivore-links/ 
-img: Meat.jpg
+image: Meat.jpg
 author: Kevin Olega 
 --- 
 This is my personal reference of Carnivore Diet links.

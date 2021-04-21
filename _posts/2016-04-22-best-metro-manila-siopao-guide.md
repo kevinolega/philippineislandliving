@@ -2,9 +2,9 @@
 layout: post
 title: Best Metro Manila Siopao Guide
 date: 2016-04-22 20:42
-author: phislife
+author: Kevin Olega
 comments: true
-img: siopao.JPG
+image: siopao.JPG
 categories: [blog, Fast Food]
 ---
 

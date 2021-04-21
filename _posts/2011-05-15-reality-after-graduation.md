@@ -2,7 +2,7 @@
 layout: post
 title: Reality After Graduation
 date: 2011-05-15 01:10
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [comics, comics, graduate, work]
 ---

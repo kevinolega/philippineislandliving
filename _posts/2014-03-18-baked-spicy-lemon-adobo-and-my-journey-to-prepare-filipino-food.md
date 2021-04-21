@@ -2,7 +2,7 @@
 layout: post
 title: Baked Spicy Lemon Adobo and My Journey to Prepare Filipino Food
 date: 2014-03-18 19:02
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: Challenges to Cycling in Manila
 date: 2016-01-28 11:55
-author: phislife
-img: giant-loaded.jpg
+author: Kevin Olega
+image: giant-loaded.jpg
 comments: true
 categories: [bike commute, blog, Cycling, cycling]
 ---

@@ -3,7 +3,7 @@ layout: post
 title: SGM Intensity Review
 date: 2018-04-30 06:46
 permalink: /sgm/ 
-img: sgm-intensity.JPG
+image: sgm-intensity.JPG
 author: Kevin Olega 
 --- 
 

@@ -2,7 +2,7 @@
 layout: post
 title: Ten Things I Learned From Biking in the Philippines
 date: 2015-01-27 19:05
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

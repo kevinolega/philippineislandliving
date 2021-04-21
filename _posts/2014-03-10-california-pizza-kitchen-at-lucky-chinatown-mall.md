@@ -2,7 +2,7 @@
 layout: post
 title: California Pizza Kitchen at Lucky Chinatown Mall
 date: 2014-03-10 13:26
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Restaurants, Throwback]
 ---

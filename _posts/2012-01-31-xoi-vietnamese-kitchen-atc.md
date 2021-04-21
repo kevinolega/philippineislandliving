@@ -2,7 +2,7 @@
 layout: post
 title: Xoi Vietnamese Kitchen Alabang Town Center Chinese New Year Grand Opening
 date: 2012-01-31 22:48
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

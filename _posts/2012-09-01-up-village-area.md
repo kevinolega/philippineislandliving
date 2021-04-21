@@ -2,7 +2,7 @@
 layout: post
 title: UP Village
 date: 2012-09-01 13:23
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Going Barefoot in the Philippines
 date: 2013-04-12 05:22
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

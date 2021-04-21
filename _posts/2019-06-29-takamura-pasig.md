@@ -3,7 +3,7 @@ layout: post
 title: Takamura Ramen Pasig Review
 date: 2019-06-29 00:40
 permalink: /takamura-pasig/ 
-img: Takamura Group.jpg
+image: Takamura Group.jpg
 author: Kevin Olega 
 --- 
 Celebrating Carla's Birthday.

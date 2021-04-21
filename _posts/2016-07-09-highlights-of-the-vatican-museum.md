@@ -2,7 +2,7 @@
 layout: post
 title: Highlights of the Vatican Museum
 date: 2016-07-09 02:56
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

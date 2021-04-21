@@ -2,9 +2,9 @@
 layout: post
 title: Giant FD806 Folding Bike Review
 date: 2016-05-03 11:48
-author: phislife
+author: Kevin Olega
 comments: true
-img: GiantFD806.jpg
+image: GiantFD806.jpg
 categories: [blog, Cycling]
 ---
 The Giant FD 806 is most affordable built bike offered by Giant in the Philippines. 

@@ -2,7 +2,7 @@
 layout: post
 title: Why Filipina Women Make Great Wives and Mothers
 date: 2011-04-06 04:37
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [blog, filipina, filipina bride, filipina girl, filipina mother, filipina parenting, filipina wife, filipino parenting, find love in the philippines, finding love, love, opportunities to meet filipinas, women]
 ---

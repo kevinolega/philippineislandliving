@@ -2,7 +2,7 @@
 layout: post
 title: 2014 Personal Projects and What I'm currently in to
 date: 2014-01-17 19:08
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

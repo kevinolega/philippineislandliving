@@ -2,7 +2,7 @@
 layout: post
 title: How a Filipino Can Communicate Better- Ditch the Sir/Ma'am
 date: 2011-09-24 11:17
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [blog, Uncategorized]
 ---

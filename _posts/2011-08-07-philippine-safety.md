@@ -2,7 +2,7 @@
 layout: post
 title: Really Short Guide to the Philippines
 date: 2011-08-07 06:20
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

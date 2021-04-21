@@ -2,7 +2,7 @@
 layout: post 
 title: Bike to Calamba
 date: 2018-03-25 16:29
-img: Bike to Calamba 2018.JPG
+image: Bike to Calamba 2018.JPG
 Tags: [ cycling, blog ]
 permalink: /bike-calamba/ 
 author: Kevin Olega 

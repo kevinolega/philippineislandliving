@@ -2,7 +2,7 @@
 layout: post
 title: Le Gourmet Is My Secret Snack Spot At Shopwise
 date: 2012-01-20 00:03
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

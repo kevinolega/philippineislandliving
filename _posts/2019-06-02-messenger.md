@@ -3,7 +3,7 @@ layout: post
 title: What's in my Messenger Bag?
 date: 2019-06-02 11:01
 permalink: /messenger/ 
-img: BagsF2018.jpg
+image: BagsF2018.jpg
 author: Kevin Olega 
 --- 
 I'll start with a background of what I do.

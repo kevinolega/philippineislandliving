@@ -2,7 +2,7 @@
 layout: post
 title: Take the MGP bus if you live in Sucat for added convenience
 date: 2011-12-12 21:50
-author: phislife
+author: Kevin Olega
 comments: true
 categories: [Commute tips, Uncategorized]
 ---

@@ -3,7 +3,7 @@ layout: post
 title: How to Get Ketogenic Diet Meals Eating Out in the Philippines
 date: 2018-03-28 17:26
 permalink: /keto-eat-out/ 
-img: keto-cans.JPG
+image: keto-cans.JPG
 author: Kevin Olega 
 --- 
 
