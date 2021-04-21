@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: contat
+permalink: contact
 ---
 
 <blockquote>[contact-form 1 "Contact form 1"]<br>
