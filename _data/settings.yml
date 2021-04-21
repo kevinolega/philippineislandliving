@@ -8,7 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'About', url: 'about'}
-- {name: 'Writing', path: '', url: 'writing.html'}
+- {name: 'Writing', path: '', url: 'writing'}
 - {name: 'Contact', path: '', url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
