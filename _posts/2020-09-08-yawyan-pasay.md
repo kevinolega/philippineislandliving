@@ -106,6 +106,10 @@ Yaw-Yan's fighting style is totally badass.
 
 Despite the tough reputation, the instructors I've met are kind and considerate to beginners.
 
+Yaw-Yan is family friendly.
+
+![IMAGE TEXT]({{ site.url }}/assets/img/YawYan-Family-Friendly.jpeg).
+
 You'll learn how to do splits.
 
 You'll clock in some cardio.
@@ -130,11 +134,11 @@ You'll likely learn some grappling basics as well.
 
 Yaw-Yan Pasay also holds self-defense classes where you learn how to use and defend against weapons.
 
+![IMAGE TEXT]({{ site.url }}/assets/img/YawYanPasayClass.jpg).
+
 You'll feel more confident in the streets.
 
-![IMAGE TEXT]({{ site.url }}/assets/img/YawYan-Family-Friendly.jpeg).
-
-Fun Fact: Tekken's Bryan Fury and Josie Rizal have several moves inspired by Yaw-Yan.
+**FUN FACT:** Tekken's Bryan Fury and Josie Rizal have several moves inspired by Yaw-Yan.
 
 I recommended training at Yaw-Yan Pasay. 
 
@@ -144,6 +148,6 @@ You may inquire at the Yaw-Yan PASAY Main Gym.
 
 Contact Sir Saladin Dacuyan at his [Facebook Page](https://www.facebook.com/saladin.dacuyan.9) or 09092410269
 
-![IMAGE TEXT]({{ site.url }}/assets/img/YawYanPasayClass.jpg).
+
 
 
