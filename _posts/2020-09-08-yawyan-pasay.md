@@ -184,6 +184,3 @@ Contact Sir Saladin Dacuyan at his [Facebook Page](https://www.facebook.com/sala
 ![IMAGE TEXT]({{ site.url }}/assets/img/Yaw-Yan-Side-Kick.jpeg).
 
 ![IMAGE TEXT]({{ site.url }}/assets/img/Yaw-Yan-Abroad.jpeg).
-
-![IMAGE TEXT]({{ site.url }}/assets/img/Yaw-Yan-Coach-Saladin-Master-Nap.jpeg).
-
