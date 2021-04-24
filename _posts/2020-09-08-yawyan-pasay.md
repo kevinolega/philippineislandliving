@@ -4,9 +4,9 @@ title: Learn Yaw-Yan, the Deadliest Filipino Martial Art
 date: 2020-09-08 00:16
 author: Kevin Olega 
 categories:
-tags: [ uncategorized, blog]
+tags: [ martial arts, fitness, recommendations blog]
 permalink: yaw-yan
-image: YawYanPasay.jpg
+image: Yaw-Yan-Coach-Saladin-Two-Fighters.jpeg
 --- 
 Yaw-Yan is a Filipino form of Kick Boxing.
 
@@ -42,6 +42,8 @@ Grandmaster Nap Fernandez founded Yaw-Yan in 1972.
 
 Yaw-Yan is a martial art designed to allow smaller fighters to compete against larger opponents.
 
+![IMAGE TEXT]({{ site.url }}/assets/img/Yaw-Yan-GM.jpg).
+
 Yaw-Yan fighters use punches and kicks.
 
 Yaw-Yan fighters also use knees and elbows.
@@ -49,6 +51,8 @@ Yaw-Yan fighters also use knees and elbows.
 The art of Yaw-Yan incorporates empty hand strikes from Kali/Arnis into their punches.
 
 Yaw-Yan allows its students to develop powerful kicks from other disciplines into their extensive move list.
+
+
 
 The basic move-list may have a similar set as Muay Thai.
 
@@ -86,7 +90,11 @@ The opposite is also true.
 
 When facing a Yaw-Yan fighter, you have more moves to worry about and defend against.
 
+![IMAGE TEXT]({{ site.url }}/assets/img/Yaw-Yan-High-Kick.jpeg).
+
 In a split second, you may need to decide whether to guard against a spinning back fist or a spinning back kick.
+
+![IMAGE TEXT]({{ site.url }}/assets/img/Yaw-Yan-Back-Kick.jpeg).
 
 Making the wrong choice will result in your loss.
 
@@ -140,6 +148,12 @@ You'll feel more confident in the streets.
 
 **FUN FACT:** Tekken's Bryan Fury and Josie Rizal have several moves inspired by Yaw-Yan.
 
+## Yaw-Yan Photos:
+
+![IMAGE TEXT]({{ site.url }}/assets/img/YawYanPasay.jpg).
+
+![IMAGE TEXT]({{ site.url }}/assets/img/Yaw-Yan-Mountain-Storm.jpeg).
+
 I recommended training at Yaw-Yan Pasay. 
 
 You may inquire at the Yaw-Yan PASAY Main Gym.
@@ -148,6 +162,21 @@ You may inquire at the Yaw-Yan PASAY Main Gym.
 
 Contact Sir Saladin Dacuyan at his [Facebook Page](https://www.facebook.com/saladin.dacuyan.9) or 09092410269
 
+![IMAGE TEXT]({{ site.url }}/assets/img/Yaw-Yan-Female-Practicing.jpeg).
 
+![IMAGE TEXT]({{ site.url }}/assets/img/Yaw-Yan-Jump-Head-Kick.jpg).
 
+![IMAGE TEXT]({{ site.url }}/assets/img/Yaw-Yan-New-Fighters.jpeg).
+
+![IMAGE TEXT]({{ site.url }}/assets/img/Yaw-Yan-Veteran-Fighters.jpg).
+
+![IMAGE TEXT]({{ site.url }}/assets/img/Yaw-Yan-Front-Kick.jpeg).
+
+![IMAGE TEXT]({{ site.url }}/assets/img/Yaw-Yan-Back-Kick-2.jpeg).
+
+![IMAGE TEXT]({{ site.url }}/assets/img/Yaw-Yan-Side-Kick.jpeg).
+
+![IMAGE TEXT]({{ site.url }}/assets/img/Yaw-Yan-Abroad.jpeg).
+
+![IMAGE TEXT]({{ site.url }}/assets/img/Yaw-Yan-Coach-Saladin-Master-Nap.jpeg).
 
