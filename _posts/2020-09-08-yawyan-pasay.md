@@ -148,11 +148,12 @@ You'll feel more confident in the streets.
 
 **FUN FACT:** Tekken's Bryan Fury and Josie Rizal have several moves inspired by Yaw-Yan.
 
-## Yaw-Yan Photos:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wIZq3x51Flw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![IMAGE TEXT]({{ site.url }}/assets/img/YawYanPasay.jpg).
 
-![IMAGE TEXT]({{ site.url }}/assets/img/Yaw-Yan-Mountain-Storm.jpeg).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6G_CoB5N79Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Yaw-Yan Pasay:
 
 I recommended training at Yaw-Yan Pasay. 
 
@@ -161,6 +162,12 @@ You may inquire at the Yaw-Yan PASAY Main Gym.
 4th Floor 2301  Luna Street, Taft Avenue Pasay City.
 
 Contact Sir Saladin Dacuyan at his [Facebook Page](https://www.facebook.com/saladin.dacuyan.9) or 09092410269
+
+## Yaw-Yan Photos:
+
+![IMAGE TEXT]({{ site.url }}/assets/img/YawYanPasay.jpg).
+
+![IMAGE TEXT]({{ site.url }}/assets/img/Yaw-Yan-Mountain-Storm.jpeg).
 
 ![IMAGE TEXT]({{ site.url }}/assets/img/Yaw-Yan-Female-Practicing.jpeg).
 
