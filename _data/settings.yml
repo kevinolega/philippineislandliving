@@ -1,10 +1,10 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: ''
+  disqus_shortname: 'philippineislandliving'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: ''
+google-ID: 'UA-21260741-1'
 
 menu:
 - {name: 'About', url: 'about'}
