@@ -14,18 +14,26 @@ The events transpired November 20, 2021.
 
 This is an ongoing story.
 
-I will post updates on the development.
+We will post updates on the development.
 
-## Missing
+## Waypoints and Timestamps
+
+- The perpetrators entered through the exit side of the main gate near Alfamart at 1:05 pm.
+- They entered 9th street at around 1:10 pm.
+- The perpetrators and left 9th street at 1:25 pm.
+- They left the main gate at 1:32 pm.
+
+## Confirmed Missing Items
 
 - Nokia Mobile Phone
 - Fixed Gear Bike worth approximately ₱40,000.
 
 ## Other Facts
 
-- The perpetrator entered the compound pretending to be water delivery boys waiting.
 - The perpetrators ate our lunch and scattered meat on the dining table.
-- Perpetrator entered 9th street at around 1:10 pm and left at 1:30 pm.
+- They pretended to knock on the door as they picked the door knob.
+- Four witnesses from the compound have seen the perpetrators.
+- Two witnesses confronted the perpetraors but were deceived because the perpetrators pretended to be water delivery boys.
 
 Warning!!! disturbing photos click at your own risk.
 
