@@ -35,8 +35,10 @@ We will post updates on the development.
 - Four witnesses from the compound have seen the perpetrators.
 - Two witnesses confronted the perpetraors but were deceived because the perpetrators pretended to be water delivery boys.
 - The perpetrators seem to be aware of the location because they avoided many CCTV cameras in the area.
+- Upon posting this on Facebook, homeowners began to share information about the UPS 5 bike thieves. Photos of bikes of other victims have been uploaded online.
 
 Warning!!! disturbing photos click at your own risk.
 
 [LINK TO PHOTOS](https://drive.google.com/drive/folders/1ClgFCFYr8UtZT-VoQzLPqIFGjA9vVmyf?usp=sharing)
 
+Location: UPS 5 Barangay San Isidro, Parañaque City
