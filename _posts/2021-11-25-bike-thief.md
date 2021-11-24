@@ -34,6 +34,7 @@ We will post updates on the development.
 - They pretended to knock on the door as they picked the door knob.
 - Four witnesses from the compound have seen the perpetrators.
 - Two witnesses confronted the perpetraors but were deceived because the perpetrators pretended to be water delivery boys.
+- The perpetrators seem to be aware of the location because they avoided many CCTV cameras in the area.
 
 Warning!!! disturbing photos click at your own risk.
 
