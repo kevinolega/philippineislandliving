@@ -113,7 +113,7 @@ If you're packing heavy, you want to avoid any rough roads because you will feel
 - Colossi Cheeko Frame
 - SRAM S-100 Crank set
 - SRAM S-900 Aero Carbon Fiber Brake Lever (Front)
-- Shimano BD-5800 105 Road Clip less Pedals
+- Shimano PD-5800 105 Road Clip less Pedals
 - Novatec Hubs
 - H Plus Son TB14 Rim set
 - Continental Gatorskin Tyres
@@ -127,9 +127,15 @@ If you're packing heavy, you want to avoid any rough roads because you will feel
 
 ### Bike Add Ons:
 
+- Cateye Padrone (plus out-front mount)
+
+
+### Previous Add Ons:
+
 - Cateye Velo Wireless Plus
 - Cateye Omni 3 Rear Light
 - Cateye HL-EL135N FrontLight
+
 
 ### Notable Long Rides on my Fixed Gear Bike:
 
@@ -137,5 +143,28 @@ If you're packing heavy, you want to avoid any rough roads because you will feel
 - November 2017 SunLife Cycling Event (Parañaque to BGC)
 - 2018 Trip to SM Calamba to purchase the Umi Sonoda No Brand Girls Figure
 - Usual house to BF Homes and Alabang area.
+
+### UPDATES
+
+**2020**:
+
+Five years of riding to bike to work got me thinking about the advantages and disadvantages of all my bikes. 
+
+The fixed gear is beautiful if you don't have a lot of stuff with you. 
+
+The bike is light and comfortable so if you only have your phone, walet, and keys.
+
+You could bring a light draw string bag to buy a few groceries.
+
+You could bring a light backpack or a messenger back to carry your laptop to the coffee shop, a water bottle and nothing else.
+
+Carrying a full backpack that includes notebooks, extra shoes, charging gear, power bricks, etc can make riding a fixed gear bike a complete pain in the ass.
+
+I always saw the fixed gear bike as the perfect budget road or race bike.
+
+That said, it's great for race configuration and short one to five kilometer rides.
+
+However, longer rides packing heavier gear may require a different configuration than what I have.
+
 
 Do you have a fixed gear bike? I'd like to see what you ride. Let me know in the comments below.
