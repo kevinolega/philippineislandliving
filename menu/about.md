@@ -15,4 +15,4 @@ Lifehacks and Experiments about
 - Fitness
 
 
-All information is based on the author's experience if you somehow feel that it does not comply with your expectations please feel free to send hatemail (philippine island living at gmail dot com)
+All information is based on the author's experience if you somehow feel that it does not comply with your expectations please feel free to send hatemail (kevin@olega.org)
