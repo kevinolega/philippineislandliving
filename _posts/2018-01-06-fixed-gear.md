@@ -161,7 +161,7 @@ I don't get to use this bike save for trips to the store because of the pandemic
 
 ## Update 2022
 
-I joined the 2022 December 3, 100km Audax event on the Mountain Bike and missed this fixed-gear bike. I wanted to join a similar event and bring a fixed-gear bike instead of a road bike.
+I joined the 2022 December 3, 100km Audax event on the mountain bike and missed this fixed-gear bike. I wanted to join a similar event and bring a fixed-gear bike instead of a road bike.
 
 I already have clipless pedals. I just need to build another bike from scratch.
 
