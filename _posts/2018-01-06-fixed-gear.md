@@ -3,70 +3,76 @@ layout: post
 title: My Experieince Building and Riding My Fixed Gear Bike
 date: 2018-01-06 23:43
 permalink: /fixed-gear/ 
-image: January 06, 2018 at 08_45AM.jpg
+img: January 06, 2018 at 08_45AM.jpg
 author: Kevin Olega 
 --- 
 I finally pulled the trigger.
 
-After my bike trip to Subic.
+I became fascinated with fixed-gear cycling after my bike trip to Subic.
 
-I have been fascinated with a rider in our group who used a fixed gear bike.
+There were four riders in our group on fixed-gear bikes.
 
-He usually gets to lead at the front of the pack.
+One of the riders leads at the front of the pack.
 
-But he is easily able to slow down to check on people who are left behind and has assisted me many times.
+At the same time, I remember him slowing down to check on people who were left behind.
 
-![Bike to Subic]({{ site.url }}/assets/img/Bike to Subic 2016.jpg).
+He assisted me so many times that the idea of riding a fixed-gear bike got my attention.
 
-I'm the guy in the orange helmet and the fixed gear is the orange bike
+How can someone do that?
 
-I am afraid of fixed gear bikes.
+Is the person fit, is the bike superior, or does fixed-gear cycling contribute significantly to both fitness and overall speed?
 
-Many people I've spoken to have a negative view on fixed gear bikes.
+![Bike to Subic]({{ site.url }}/images/Bike to Subic 2016.jpg).
 
-The comments usually go that fixed gear bikes are dangerous, difficult to use, and often viewed as reckless cycling.
+I'm the guy in the orange helmet, and the interesting fixed gear is the beautiful orange bike.
 
-I'm worried about crashing.
+Before this trip, I was afraid of fixed-gear bikes.
 
-I'm also worried about riding "fixed" being exhausiting.
+Many people I've spoken to negatively viewed fixed-gear bikes.
 
-Or eventually hurting my knees.
+The comments usually go along the lines of fixed-gear bikes being dangerous, difficult to use and often viewed as reckless cycling.
 
-But the more I doubted myself.
+I was worried about crashing.
 
-The more I wanted to try it.
+I was also worried about how riding "fixed" can be exhausting.
 
-I didn't buy one immediately because I'm already paying for my bike on installment.
+I imagined that I'd eventually hurt my knees.
 
-So as soon as I had an opportunity, I bought a frame set and decided to assemble one.
+I struggled with all these thoughts of doubt, but the more I doubted myself, the more I wanted to try it.
 
-Most of the parts were purchased second hand.
+I felt emboldened by my negative emotions.
 
-The first purchase was just the frame set. The seller was kind enough for me to save up for the purchase.
+I waited to buy a fixed-gear bike because I was already paying for my bike in installments (the bike in the photo).
 
-The second purchase was the wheel set, which I brought from Mark, the fascinating rider during our trip.
+So as soon as I had an opportunity, I bought a pre-loved Colossi Cheeko frame set and began my assembly project.
 
-The third purchase were the handlebars, brakes, seat post and saddle, as well as a bunch of free lights. Seller was kind enough to deliver to my house.
+I  purchased most of the parts second-hand.
 
-The fourth purchase, was the crank. Which I picked up in Laguna.
+The first purchase was just the frameset. I got a gray Colossi Cheeko, and the seller was kind enough to reserve the frame for me while I saved up for the purchase.
 
-The fifth purchase was the chain, which I bought at a nearby bike store.
+The second purchase was the wheelset. I got Novatec Hubs and HPlus Son Rim that came with a 15-tooth gear. I brought from Mark, the fascinating rider, during our trip. 
 
-The sixth purchase was with the third seller. He sold me his helmet and threw in the brakes for free. Then he accompanied me to the store he got his parts from. I bought the tires, tire tube, clip-less pedals and bike shoes that match.
+The third purchase was the Cinelli Lola Bullhorn handlebars, Cinelli Vai Stem, SRAM brake levers, La Bici seat post, Cinelli saddle, Cateye Velo 9, and lights. The seller was kind enough to deliver the items to my house.
 
-The seventh and final purchase was in Makati, I got the rear brake lever, had a wheel lock added.
+The fourth purchase was the SRAM S100 crank, which I picked up in Laguna.
 
-I assembled the bike for the 2017 Sun Life Financial Cycling Event where a team of four consided of my uncle, his friend, me and my friend.
+The fifth purchase was the KMC chain, which I bought at a nearby bike store.
 
-![Kevin on the finish line]({{ site.url }}/assets/img/February 04, 2018 at 12_06AM.jpg).
+The sixth purchase was with the third seller. He sold me his helmet. He also threw in a pair of Merida gloves and Shimano Claris brakes for free. Then he accompanied me to Cristy's Bike Shop in Buendia Makati. He recommended this shop because he got good deals from this store. I bought the Continental Gatorskin tires, Continental tire tube, clip-less pedals, and bike shoes that match.
+
+The seventh and final purchase was in Tryon Makati. I got the rear brake lever and had a wheel lock added.
+
+I assembled the bike for the 2017 Sun Life Financial Cycling Event. We were a team of four consisting of my uncle, his friend, me, and my friend.
+
+![Kevin on the finish line]({{ site.url }}/images/February 04, 2018 at 12_06AM.jpg).
 
 ### Fixed Gear First Impressions:
 
-Fixed gear riding is difficult at first.
+Fixed-gear riding is difficult at first.
 
 Don't wear clip-less pedals on the first go.
 
-It's hard.
+Clipless riding is hard if you're not used to it.
 
 You are likely going to fall off your bike.
 
@@ -74,97 +80,97 @@ You don't need to wear your special bike shoes immediately.
 
 Your clip-less pedals will work with regular shoes.
 
-Compared to my [Giant folding bike](https://philippineislandliving.com/giant-fd806-folding-bike-review/) and the mountain bike, the fixed gear bike is crazy light so it is easier to go faster if you wanted to.
+Compared to my [Giant folding bike](https://philippineislandliving.com/giant-fd806-folding-bike-review/) and the mountain bike, the fixed gear bike is crazy light. Going faster feels effortless.
 
-Climbing is incredibly easier.
+Climbing is incredibly easier on a fixed-gear bike because of the light setup.
 
-The brakes were a requirement to join the cycling event but I kept it for convenience.
+The brakes were a requirement to join the cycling event, but I kept them on after the event for convenience.
 
-Downhill is a little scary for me on this bike.
+Riding downhill is a little scary for me on this fixed-gear bike.
 
 I kept the brakes on because it's incredibly convenient when trying to control my speed when riding downhill.
 
-Fixed gear riding in the Philippines, in Manila specifically is scary but doable.
+Fixed gear riding in the Philippines, in Manila specifically, is scary but doable.
 
-Especially if you're not doing anything crazy.
+You can move around conveniently if you're not doing anything crazy.
 
-Don't ever go brake-less unless you are riding in a controlled environment.
+If you're new, don't ever go brake-less unless you are riding in a controlled environment.
 
 ### Fixed Gear Riding Two Years Later:
 
-I really like this bike for the lightness.
+I love this bike for its lightness.
 
 I appreciate my mountain and folding bike for what they can do.
 
-What I love about this one is it's very light and it's incredibly easy to move around with it.
+What I love about my fixed-gear bike is the lightness and how it feels effortless to move around.
 
 The main downside of this bike is I'm always worried that it might get stolen.
 
-The other downside is how I feel the weight of what I'm carrying when I'm carrying a lot.
+The other downside is how I feel the weight of the load I'm carrying whenever I haul a heavy bag during my ride.
 
-This bike is perfect if you only packed your wallet, phone, keys and maybe an extra shirt.
+This bike is perfect if you only packed your wallet, phone, keys, and maybe an extra shirt.
 
-If you have a backpack or a messenger with a laptop, a bunch of notebooks, packed lunch, gym clothes, shoes and a jacket with you this won't be the best bike to use.
+If you have a backpack or a messenger with a laptop, notebooks, packed lunch, bottled water, gym clothes, shoes, and a jacket, this won't be the best bike to use.
 
-If you're packing heavy, you want to avoid any rough roads because you will feel painful vibrations in your arms when you pass through any imperfections on the road.
+[My folding bike](https://philippineislandliving.com/blog/cycling/giant-fd806-folding-bike-review.html) had been my best bike for hauling heavy loads.
+
+If you're packing heavy, you want to avoid rough roads because you will feel painful vibrations in your arms when you pass through any imperfections on the road.
 
 ### Fixed Gear Bike Specifications:
-
-- Colossi Cheeko Frame
-- SRAM S-100 Crank set
+- Gear Ratio: 48-15
+- Gray Colossi Cheeko Frameset
+- SRAM S-100 Crankset
 - SRAM S-900 Aero Carbon Fiber Brake Lever (Front)
-- Shimano PD-5800 105 Road Clip less Pedals
+- Shimano BD-5800 105 Road Clipless Pedals
 - Novatec Hubs
 - H Plus Son TB14 Rim set
 - Continental Gatorskin Tyres
 - Cinelli Lola Bullhorn Handlebar
 - Cinelli VAI Stem
-- Cineli Unicator Saddle
-- LaBici SeatPost
+- Cinelli Unicator Saddle
+- LaBici Seatpost
 - DIA-COMPE Headset
+- Brand Unknown: Brake Lever
 - KMC Peanut Chain
 - Shimano Claris Brakes
 
-### Bike Add Ons:
-
-- Cateye Padrone (plus out-front mount)
-
-
-### Previous Add Ons:
+### Bike Add-Ons:
 
 - Cateye Velo Wireless Plus
 - Cateye Omni 3 Rear Light
 - Cateye HL-EL135N FrontLight
-
+- Shimano SH-RP300 bike shoes
 
 ### Notable Long Rides on my Fixed Gear Bike:
 
-- Took the bike to makati to get the rear break lever that fits.
+- Took the bike to Makati to get the rear brake lever that fits.
 - November 2017 SunLife Cycling Event (Parañaque to BGC)
 - 2018 Trip to SM Calamba to purchase the Umi Sonoda No Brand Girls Figure
 - Usual house to BF Homes and Alabang area.
+- Pandemic Ride 
 
-### UPDATES
+## Update 2020
 
-**2020**:
+I got my bike, a Cateye Padrone cyclo-computer.
+I bought myself some cleat covers for my bike shoes.
+I don't get to use this bike save for trips to the store because of the pandemic.
 
-Five years of riding to bike to work got me thinking about the advantages and disadvantages of all my bikes. 
+## Update 2021
 
-The fixed gear is beautiful if you don't have a lot of stuff with you. 
+[My bike got stolen](https://philippineislandliving.com/ups5-bike-thief).
 
-The bike is light and comfortable so if you only have your phone, walet, and keys.
+## Update 2022
 
-You could bring a light draw string bag to buy a few groceries.
+I joined the 2022 December 3, 100km Audax event on the Mountain Bike and missed this fixed-gear bike. I wanted to join a similar event and bring a fixed-gear bike instead of a road bike.
 
-You could bring a light backpack or a messenger back to carry your laptop to the coffee shop, a water bottle and nothing else.
+I already have clipless pedals. I just need to build another bike from scratch.
 
-Carrying a full backpack that includes notebooks, extra shoes, charging gear, power bricks, etc can make riding a fixed gear bike a complete pain in the ass.
+The rubber heels of my road bike shoes have broken down. The nearby shoe repair luckily restored it.
 
-I always saw the fixed gear bike as the perfect budget road or race bike.
+I emailed Colossi to inquire about getting another Cheeko and was informed that it's been phased out.
 
-That said, it's great for race configuration and short one to five kilometer rides.
+The rep recommended I'd get a Colossi Crit instead.
 
-However, longer rides packing heavier gear may require a different configuration than what I have.
+I looked it up, and it looks identical to the Cheeko save for the smooth-looking welded joints.
 
-
-Do you have a fixed gear bike? I'd like to see what you ride. Let me know in the comments below.
+Do you have a fixed-gear bike? I'd like to see what you ride. Let me know in the comments below.
