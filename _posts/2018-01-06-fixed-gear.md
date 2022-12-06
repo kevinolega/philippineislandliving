@@ -22,7 +22,7 @@ How can someone do that?
 
 Is the person fit, is the bike superior, or does fixed-gear cycling contribute significantly to both fitness and overall speed?
 
-![Bike to Subic]({{ site.url }}/images/Bike to Subic 2016.jpg).
+![Bike to Subic]({{ site.url }}/assets/img/Bike to Subic 2016.jpg).
 
 I'm the guy in the orange helmet, and the interesting fixed gear is the beautiful orange bike.
 
@@ -64,7 +64,7 @@ The seventh and final purchase was in Tryon Makati. I got the rear brake lever a
 
 I assembled the bike for the 2017 Sun Life Financial Cycling Event. We were a team of four consisting of my uncle, his friend, me, and my friend.
 
-![Kevin on the finish line]({{ site.url }}/images/February 04, 2018 at 12_06AM.jpg).
+![Kevin on the finish line]({{ site.url }}/assets/img/February 04, 2018 at 12_06AM.jpg).
 
 ### Fixed Gear First Impressions:
 
